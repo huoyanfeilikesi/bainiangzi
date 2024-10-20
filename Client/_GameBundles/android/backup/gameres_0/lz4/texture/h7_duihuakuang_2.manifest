@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 697590412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0665a53e2eb7d0cb2bb503cbe328d51c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/TextureSpecial/h7_duihuakuang_2.png
+Dependencies: []

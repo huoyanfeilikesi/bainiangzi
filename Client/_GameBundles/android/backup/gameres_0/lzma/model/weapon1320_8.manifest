@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2894571011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be754a56a4f85cc456bb144ea9c10f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f4f7e723268b53aef2a7872d0ec23f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1320_8/Prefabs/weapon1320_8.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/gradient_507
+- _GameBundles/android/gameres/lzma/effect/smoke_513
+- _GameBundles/android/gameres/lzma/effect/object_018
+- _GameBundles/android/gameres/lzma/effect/other_505
+- _GameBundles/android/gameres/lzma/effect/smoke_511
+- _GameBundles/android/gameres/lzma/effect/object_447
+- _GameBundles/android/gameres/lzma/effect/trail_503_red
+- _GameBundles/android/gameres/lzma/effect/particles_040
+- _GameBundles/android/gameres/lzma/effect/particles_500
+- _GameBundles/android/gameres/lzma/effect/trail_513
+- _GameBundles/android/gameres/lzma/effect/gradient_509
+- _GameBundles/android/gameres/lzma/effect/gradient_508
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_8_1
+- _GameBundles/android/gameres/lzma/model/weapon1320_8_mat

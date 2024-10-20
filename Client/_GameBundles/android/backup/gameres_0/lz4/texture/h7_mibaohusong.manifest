@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2229933086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0846d46cc74d99e6d318c19f7b2de724
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_mibaohusong.png
+Dependencies: []

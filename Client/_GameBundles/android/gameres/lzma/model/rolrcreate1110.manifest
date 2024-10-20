@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 732417752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e94d5729ce746bf912d6cd670467d726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d792f836d200398aef546d311bd6c933
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1110/RoleCreate/RolrCreate1110.overrideController
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/rolecreate/base

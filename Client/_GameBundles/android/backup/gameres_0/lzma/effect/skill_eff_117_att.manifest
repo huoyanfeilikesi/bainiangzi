@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 324004084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06fa7cc0688b927e0474a28d62e5fe3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef2748fb0b66a944136aa5eb10c79dc7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_117_att/Prefabs/Skill_eff_117_att.prefab
+- Assets/GameRes/Effect/Magic/Skill_eff_117_att/Textures/Skill_eff_117_att.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/fazhen_103
+- _GameBundles/android/gameres/lzma/effect/fazhen_100
+- _GameBundles/android/gameres/lzma/effect/fazhen_311
+- _GameBundles/android/gameres/lzma/effect/flash_401
+- _GameBundles/android/gameres/lzma/effect/skill_eff_117_att02

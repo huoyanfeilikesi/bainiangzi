@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1684785789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0bb0e72e4560a86d60a8ded1aea6c03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47cae4798395ed933d83121ba3aef869
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a564df9d79393a43b92be5fae2cd074, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0008/Prefabs/ui_eff_0008.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/flash_205
+- _GameBundles/android/gameres/lzma/effect/particles_040
+- _GameBundles/android/gameres/lzma/effect/gradient_304_1
+- _GameBundles/android/gameres/lzma/effect/trail_469
+- _GameBundles/android/gameres/lzma/effect/other_490
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0008_02
+- _GameBundles/android/gameres/lzma/effect/trail_509
+- _GameBundles/android/gameres/lzma/effect/particles_434
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0008_03
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0008_04
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0008_01

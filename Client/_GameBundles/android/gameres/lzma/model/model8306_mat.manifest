@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3159108201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c11774155cffb9c5b5a88748d331db3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8306/Textures/model8306.png
+- Assets/GameRes/Model/Shenqi/8306/Materials/model8306_2.mat
+- Assets/GameRes/Model/Shenqi/8306/Materials/model8306_1.mat
+- Assets/GameRes/Model/Shenqi/8306/Materials/model8306_3.mat
+- Assets/GameRes/Model/Shenqi/8306/Textures/8306_1.png
+- Assets/GameRes/Model/Shenqi/8306/Materials/model8306_4.mat
+- Assets/GameRes/Model/Shenqi/8306/Textures/8306_3.png
+- Assets/GameRes/Model/Shenqi/8306/Materials/model8306.mat
+- Assets/GameRes/Model/Shenqi/8306/Textures/8306_4.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/noise_320

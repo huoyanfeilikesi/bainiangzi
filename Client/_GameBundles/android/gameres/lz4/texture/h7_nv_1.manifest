@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2555556452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9155b6d64103ae3788cd3d3ec8a6d585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Bonfire/h7_nv_1.png
+Dependencies: []

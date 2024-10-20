@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1410937439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41beab6702176238db44becfef2acfdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_196_full/Prefabs/Skill_eff_196_full.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/trail_038
+- _GameBundles/android/gameres/lzma/effect/ring_509
+- _GameBundles/android/gameres/lzma/effect/trail_039
+- _GameBundles/android/gameres/lzma/effect/ring_510
+- _GameBundles/android/gameres/lzma/effect/flash_506
+- _GameBundles/android/gameres/lzma/effect/ring_002
+- _GameBundles/android/gameres/lzma/effect/ring_508
+- _GameBundles/android/gameres/lzma/effect/daoguang_312
+- _GameBundles/android/gameres/lzma/effect/ring_001

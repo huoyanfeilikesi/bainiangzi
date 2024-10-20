@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2583902865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4951f2b8edbb1882034e53cae1d77411
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_1110_magic_att/Prefabs/skill_eff_1110_magic_att2.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/trail_111
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/ring_513
+- _GameBundles/android/gameres/lzma/effect/trail_027_c

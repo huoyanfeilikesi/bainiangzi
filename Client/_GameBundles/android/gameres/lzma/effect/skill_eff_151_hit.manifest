@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4273635624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8d5b5510ff91d7059c1676ee85dbd0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc3fc5c7950ce968b73df37daf7dc96f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_151_hit/Prefabs/skill_eff_151_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/flash_501
+- _GameBundles/android/gameres/lzma/effect/trail_033
+- _GameBundles/android/gameres/lzma/effect/trail_070_1
+- _GameBundles/android/gameres/lzma/effect/trail_083
+- _GameBundles/android/gameres/lzma/model/model1310_mat

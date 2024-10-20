@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 868647003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65891053d90f31c4684cefab250bf5bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29cd206ae5c0ad98a24be1887677f472
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8223/Prefabs/model8223.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/other_451
+- _GameBundles/android/gameres/lzma/effect/glow_001
+- _GameBundles/android/gameres/lzma/effect/fire_006
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/model/animator8223

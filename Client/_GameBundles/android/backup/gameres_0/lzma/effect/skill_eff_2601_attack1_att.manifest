@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2032132315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d602f2e8674c0d2ff00afed2c5fc08c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_2601_attack1_att/Prefabs/skill_eff_2601_attack1_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/noise_500
+- _GameBundles/android/gameres/lzma/effect/gradient_502
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/noise_502
+- _GameBundles/android/gameres/lzma/effect/word_001
+- _GameBundles/android/gameres/lzma/effect/word_007
+- _GameBundles/android/gameres/lzma/effect/other_505
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/skill_eff_129_att
+- _GameBundles/android/gameres/lzma/effect/noise_506
+- _GameBundles/android/gameres/lzma/effect/gradient_304_1

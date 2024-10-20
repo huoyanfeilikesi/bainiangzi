@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2431345363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d14573e04f1ddc44ea02a1e763a9f13b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9aac207176d435e0dc7a749111f974f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d0b65c45ac41c646b9f0e204703a5b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_6010/Prefabs/scene_eff_6010_long.prefab
+- Assets/GameRes/Effect/Scene/scene_eff_6010/Textures/scene_eff_6010_long.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_317

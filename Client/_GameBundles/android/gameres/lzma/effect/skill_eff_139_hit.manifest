@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2024626140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1d44710c53c2a4d2dd2584486e6e677
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7d5eec097b40714f4f0bbec6d818cb7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_139_hit/Textures/skill_eff_139_hit.png
+- Assets/GameRes/Effect/Magic/skill_eff_139_hit/Prefabs/skill_eff_139_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/fazhen_100
+- _GameBundles/android/gameres/lzma/effect/fazhen_311
+- _GameBundles/android/gameres/lzma/effect/ring_444
+- _GameBundles/android/gameres/lzma/effect/ring_064
+- _GameBundles/android/gameres/lzma/effect/ring_030
+- _GameBundles/android/gameres/lzma/effect/ring_109
+- _GameBundles/android/gameres/lzma/effect/glow_005
+- _GameBundles/android/gameres/lzma/effect/ring_023
+- _GameBundles/android/gameres/lzma/effect/mask_332
+- _GameBundles/android/gameres/lzma/effect/ring_103_1

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3622076759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8816d11ebc6f09c61048b5562d532b7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfe6ffa1ad25cb4bcea3c65583277375
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Horse/HorseGetSkillView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas

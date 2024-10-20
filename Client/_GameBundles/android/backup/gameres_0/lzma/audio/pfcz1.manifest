@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 883561304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8005cc106d78e2ff080a3ffdcfff3b05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/pfcz1.ogg
+Dependencies: []

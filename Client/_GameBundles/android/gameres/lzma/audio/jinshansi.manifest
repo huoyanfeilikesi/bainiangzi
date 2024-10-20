@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3854085376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4bd3ca1924522b6eec559cf6a8d1811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/jinshansi.mp3
+Dependencies: []

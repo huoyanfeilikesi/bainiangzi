@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{5544F79C-5306-909F-C855-53D6959D5DFD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_2;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ASTAR_NO_ZIP;ASTAR_FAST_NO_EXCEPTIONS;ASTAR_GRID_NO_CUSTOM_CONNECTIONS;ASTAR_LEVELGRIDNODE_FEW_LAYERS;ASTAR_NO_LOGGING;ASTAR_NO_PENALTY;ASTAR_NoGUI;ENABLE_DUCK_TYPING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Editor\AssetImportConfig\AssetImportConfig.cs" />
+     <Compile Include="Assets\Editor\AssetImportConfig\AssetImportConfigView.cs" />
+     <Compile Include="Assets\Editor\AssetImportConfig\AssetImportPost.cs" />
+     <Compile Include="Assets\Editor\AssetImportConfig\AtlasOrFontConfig.cs" />
+     <Compile Include="Assets\Editor\AssetImportConfig\AtlasOrFontHelper.cs" />
+     <Compile Include="Assets\Editor\AssetImportConfig\AvatarImportTool.cs" />
+     <Compile Include="Assets\Editor\AssetPipeline\AssetBundleBuilder.cs" />
+     <Compile Include="Assets\Editor\AssetPipeline\AssetManagerInspector.cs" />
+     <Compile Include="Assets\Editor\AssetPipeline\BuildBundleConfig.cs" />
+     <Compile Include="Assets\Editor\AssetPipeline\PrefabPoolConfigEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\AnimationLinkEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\AstarPathEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\AstarUpdateChecker.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\AstarUpdateWindow.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\CustomGraphEditorAttribute.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\EditorGUIx.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\EditorUtilities.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\GraphEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\GridGeneratorEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\LayerGridGraphEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\NavMeshGeneratorEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\PointGeneratorEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphEditors\RecastGraphEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\GraphUpdateSceneEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\Misc\AstarEnumFlagDrawer.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\ModifierEditors\RaycastModifierEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\ModifierEditors\SmoothModifierEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\OptimizationHandler.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\RVONavmeshEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\RVOSimulatorEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\RVOSquareObstacleEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\RecastMeshObjEditor.cs" />
+     <Compile Include="Assets\Editor\AstarPathfindingProject\SeekerEditor.cs" />
+     <Compile Include="Assets\Editor\BuildTools\ChannelConfig.cs" />
+     <Compile Include="Assets\Editor\BuildTools\ChannelSetting.cs" />
+     <Compile Include="Assets\Editor\BuildTools\CommonPostProcessBuild.cs" />
+     <Compile Include="Assets\Editor\BuildTools\PlayerSettingTool.cs" />
+     <Compile Include="Assets\Editor\BuildTools\ProjectCallback.cs" />
+     <Compile Include="Assets\Editor\BuildTools\UISetting\UIAtlasTools.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\MiniJSON\MiniJSON.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXBuildFile.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXBuildPhase.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXDictionary.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXFileReference.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXGroup.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXList.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXObject.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXParser.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXProject.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXSortedDictionary.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\PBX Editor\PBXVariantGroup.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\Plist\Plist.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCBuildConfiguration.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCConfigurationList.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCFileChecker.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCMod.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCPlist.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCProject.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XClass.cs" />
+     <Compile Include="Assets\Editor\BuildTools\XUPorter\XCodePostProcess.cs" />
+     <Compile Include="Assets\Editor\Custom\AnimationOpt.cs" />
+     <Compile Include="Assets\Editor\Custom\AnimatorToolsWindow.cs" />
+     <Compile Include="Assets\Editor\Custom\AudioTools.cs" />
+     <Compile Include="Assets\Editor\Custom\CheckResourceTools.cs" />
+     <Compile Include="Assets\Editor\Custom\DelegateClearCheck.cs" />
+     <Compile Include="Assets\Editor\Custom\EditorObjExporter.cs" />
+     <Compile Include="Assets\Editor\Custom\EditorToolsMenu.cs" />
+     <Compile Include="Assets\Editor\Custom\EditorUtil.cs" />
+     <Compile Include="Assets\Editor\Custom\ExportWrapWindow.cs" />
+     <Compile Include="Assets\Editor\Custom\FindMissingComponent.cs" />
+     <Compile Include="Assets\Editor\Custom\FindStandardShader.cs" />
+     <Compile Include="Assets\Editor\Custom\LuaToolsWindow.cs" />
+     <Compile Include="Assets\Editor\Custom\ModelCheckTools.cs" />
+     <Compile Include="Assets\Editor\Custom\NGUIPrefabAtlasCheck.cs" />
+     <Compile Include="Assets\Editor\Custom\PrefabApply.cs" />
+     <Compile Include="Assets\Editor\Custom\PrefabSpriteManager.cs" />
+     <Compile Include="Assets\Editor\Custom\ProtoToolsWindow.cs" />
+     <Compile Include="Assets\Editor\Custom\ReplaceMatHelper.cs" />
+     <Compile Include="Assets\Editor\Custom\TerrainTool\ExportTerrain.cs" />
+     <Compile Include="Assets\Editor\Custom\TerrainTool\TextureExporter.cs" />
+     <Compile Include="Assets\Editor\Custom\TextureTools.cs" />
+     <Compile Include="Assets\Editor\Custom\UIAtlasCheckMenu.cs" />
+     <Compile Include="Assets\Editor\Custom\UIEventHandlerCheck.cs" />
+     <Compile Include="Assets\Editor\Custom\UILabelStyleMenu.cs" />
+     <Compile Include="Assets\Editor\Custom\UILabelTools.cs" />
+     <Compile Include="Assets\Editor\Custom\UIPanelCheckRigidbody.cs" />
+     <Compile Include="Assets\Editor\EditorHelper.cs" />
+     <Compile Include="Assets\Editor\GridMapGenerator\GridMapAreaToolEditor.cs" />
+     <Compile Include="Assets\Editor\GridMapGenerator\GridMapBrushToolEditor.cs" />
+     <Compile Include="Assets\Editor\GridMapGenerator\GridMapGenerator.cs" />
+     <Compile Include="Assets\Editor\GridMapGenerator\Map3DEditor.cs" />
+     <Compile Include="Assets\Editor\Inspector\AnimEffectEditor.cs" />
+     <Compile Include="Assets\Editor\Inspector\ColorShortTextEditor.cs" />
+     <Compile Include="Assets\Editor\Inspector\GameObjectContainerEditor.cs" />
+     <Compile Include="Assets\Editor\JPGTexTool\JPGTexTool.cs" />
+     <Compile Include="Assets\Editor\NGUI\ActiveAnimationEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\BMFontReader.cs" />
+     <Compile Include="Assets\Editor\NGUI\ComponentSelector.cs" />
+     <Compile Include="Assets\Editor\NGUI\EventDelegateDrawer.cs" />
+     <Compile Include="Assets\Editor\NGUI\EventDelegateEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\FreeType.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIContextMenu.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIEditorExtensions.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIEditorTools.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIHandles.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIHelp.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIJson.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUIMenu.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUISelectionTools.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUISettings.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUISnap.cs" />
+     <Compile Include="Assets\Editor\NGUI\NGUITransformInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\PropertyBindingEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\PropertyReferenceDrawer.cs" />
+     <Compile Include="Assets\Editor\NGUI\SpriteSelector.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenAlphaEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenColorEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenFOVEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenHeightEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenOrthoSizeEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenPositionEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenRotationEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenScaleEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenTransformEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenVolumeEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TweenWidthEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\TypewriterEffectEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UI2DSpriteEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIAnchorEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIAtlasInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIAtlasMaker.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIBasicSpriteEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIButtonColorEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIButtonEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIButtonKeysEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIButtonMessageEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UICameraEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UICameraTool.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIColorPickerEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UICreateNewUIWizard.cs" />
+     <Compile Include="Assets\Editor\NGUI\UICreateWidgetWizard.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIDragObjectEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIDrawCallInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIDrawCallViewer.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIEventTriggerEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIFontInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIFontMaker.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIForwardEventsEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIGridEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIImageButtonInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIInputEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIKeyNavigationEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UILabelHUDInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UILabelInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UILocalizeEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPanelInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPanelTool.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPlayAnimationEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPlayTweenEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPopupListInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIPrefabTool.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIProgressBarEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIRectEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIRootEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIScrollBarEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIScrollViewEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UISliderEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UISnapshotPointEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UISpriteAnimationInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UISpriteInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIStretchEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UITableEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UITextureInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UITexturePacker.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIToggleInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UITweenerEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIWidgetContainerEditor.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIWidgetInspector.cs" />
+     <Compile Include="Assets\Editor\NGUI\UIWrapContentEditor.cs" />
+     <Compile Include="Assets\Editor\ProcessHelper.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSDeploy\Editor\IOSDeployPostProcess.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSDeploy\Editor\ISDMenu.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSDeploy\Editor\ISDSettingsEditor.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSNative\Editor\IOSNativeMenu.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSNative\Editor\IOSNativePostProcess.cs" />
+     <Compile Include="Assets\Editor\StoreKit\IOSNative\Editor\IOSNativeSettingsEditor.cs" />
+     <Compile Include="Assets\Editor\StoreKit\StansAssetsCommon\Editor\PluginsInstalationUtil.cs" />
+     <Compile Include="Assets\Editor\StoreKit\StansAssetsCommon\Editor\SA_Bool.cs" />
+     <Compile Include="Assets\Editor\StoreKit\StansAssetsCommon\Editor\SA_EditorTool.cs" />
+     <Compile Include="Assets\Editor\StoreKit\StansAssetsCommon\Editor\SA_RemoveTool.cs" />
+     <Compile Include="Assets\Editor\StoreKit\StansAssetsCommon\Editor\SA_VersionsManager.cs" />
+     <Compile Include="Assets\Editor\ToLua\CustomSettings.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_LuaInterface_EventObject.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_LuaInterface_LuaConstructor.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_LuaInterface_LuaField.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_LuaInterface_LuaMethod.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_LuaInterface_LuaProperty.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_System_Delegate.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_System_Enum.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_System_Object.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_System_String.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_System_Type.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_UnityEngine_GameObject.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_UnityEngine_Input.cs" />
+     <Compile Include="Assets\Editor\ToLua\Extend\ToLua_UnityEngine_Object.cs" />
+     <Compile Include="Assets\Editor\ToLua\ToLuaExport.cs" />
+     <Compile Include="Assets\Editor\ToLua\ToLuaMenu.cs" />
+     <Compile Include="Assets\Editor\ToLua\ToLuaTree.cs" />
+     <Compile Include="Assets\Scripts\GamePlot\Editor\GamePlotEditor.cs" />
+     <None Include="Assets\Shaders\Gshader\G_dissolveRim_blend.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Terrain-Light.shader" />
+     <None Include="Assets\Standard Assets\NGUI\ReadMe - 3.10.1.txt" />
+     <None Include="Assets\Shaders\Gshader\G_rim_GradientMask.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
+     <None Include="Assets\Shaders\Yshader\Y_wuqi.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Xray-Hue.shader" />
+     <None Include="Assets\Shaders\Yshader\cgwell_dissolution_blend.shader" />
+     <None Include="Assets\GameRes\Font\Number\Number0\Number0.fnt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Shaders\Hshader\H_SubDissolve_Par_edge_Blend.shader" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_142_AP.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 2.shader" />
+     <None Include="Assets\Editor\AstarPathfindingProject\EditorAssets\Materials\Navmesh.shader" />
+     <None Include="Assets\Plugins\UniWebView\ChangeLog.txt" />
+     <None Include="Assets\Shaders\Gshader\G_rongjie_add.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Trail Additive TurbulenceAlpha.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Fresnel_Ble.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_rimblend_db.shader" />
+     <None Include="Assets\Standard Assets\DOTween\DOTween46.xml" />
+     <None Include="Assets\GameRes\Font\Number\Number6\Number6.fnt" />
+     <None Include="Assets\Shaders\Gshader\G_dissolveRim_blend_db.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\effect_distortadd.shader" />
+     <None Include="Assets\Plugins\YamlDotNet\YamlDotNet.xml" />
+     <None Include="Assets\Shaders\Hshader\H_Mask_Blend.shader" />
+     <None Include="Assets\Shaders\Gshader\G_rongjie_add2.shader" />
+     <None Include="Assets\Standard Assets\CameraPath3\3.1x Upgrade readme.txt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\Plugins\Android\res\layout\cilu_activity_game_loader.xml" />
+     <None Include="Assets\Standard Assets\DOTween\readme.txt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\Shaders\H2shader\H_Trail_Blend_P.shader" />
+     <None Include="Assets\Shaders\Gshader\G_distort_Mask_Blend.shader" />
+     <None Include="Assets\Shaders\Gshader\H_ParticleScale_add.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-ModelHue-Transparent.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Alpha Blended Turbulence.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_blend2.shader" />
+     <None Include="Assets\Plugins\StoreKit\IOSNative\Documentation\ISN_VersionNotes.txt" />
+     <None Include="Assets\Shaders\H2shader\H_Fresnel_Add02.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Terrain-No-Light.shader" />
+     <None Include="Assets\Shaders\H2shader\H_SubDissolve_Par_add.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_distort_add.shader" />
+     <None Include="Assets\Shaders\Gshader\G_Wing_blend.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\fragment_clgame_packet.xml" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-ModelHue.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\DotNetZip\DotNetZipLicense.txt" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_129_att_shuangmian.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha (TextureClip).shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Transparent-Terrain.shader" />
+     <None Include="Assets\GameRes\Font\WarNumber\Number7\Number7.fnt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha 1.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolveRim_blend2.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\Poly2Tri\Poly2TriLicense.txt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Transparent-AlphaBlend.shader" />
+     <None Include="Assets\GameRes\Font\Number\Number4\Number4.fnt" />
+     <None Include="Assets\Shaders\Hshader\H_liuguang_blend02.shader" />
+     <None Include="Assets\Standard Assets\CameraPath3\readme.txt" />
+     <None Include="Assets\Standard Assets\CameraPath3\versionHistory.txt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-DoubleSide.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_142_hit.shader" />
+     <None Include="Assets\Shaders\Hshader\H_raodong_Add.shader" />
+     <None Include="Assets\GameRes\Font\Number\Number5\Number5.fnt" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_distort_blend.shader" />
+     <None Include="Assets\Plugins\Android\AMap\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip) 2.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Particle Add Dissolve.shader" />
+     <None Include="Assets\Shaders\Gshader\G_Cloud.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Transparent-AlphaTest.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_blend3.shader" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_141_hit.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Skybox-2Layers-Scroll.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 3.shader" />
+     <None Include="Assets\GameRes\Font\WarNumber\Number11\Number11.fnt" />
+     <None Include="Assets\Shaders\Gshader\G_Spread_Blend.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Diffuse.shader" />
+     <None Include="Assets\GameRes\Model\Character\5143\Materials\5143.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\dependencies.txt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-UI-Particle-Additive-Turbulence-mask.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-AlphaTest.shader" />
+     <None Include="Assets\Shaders\Hshader\H_Par_liuguang_Ble.shader" />
+     <None Include="Assets\Shaders\Gshader\G_GradientMask_add.shader" />
+     <None Include="Assets\Shaders\Hshader\H_liuguang_ADD04.shader" />
+     <None Include="Assets\Shaders\Hshader\H_Par_liuguang_Add.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Additive Turbulence_singleface.shader" />
+     <None Include="Assets\Shaders\Gshader\G_GradientMask_diss_blend.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Fresnel_ADD.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Shaders\Game\Diffuse.shader" />
+     <None Include="Assets\Shaders\Game\Model-Unlit.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Spread_Add.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Disturbance_add.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\MaskAlphaBlend.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Particle Blend Dissolve.shader" />
+     <None Include="Assets\GameRes\Font\WarNumber\Number9\Number9.fnt" />
+     <None Include="Assets\Plugins\StoreKit\StansAssets\Versions\ISN_VersionInfo.txt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\Shaders\Gshader\blendui.shader" />
+     <None Include="Assets\Shaders\Yshader\qiu.shader" />
+     <None Include="Assets\GameRes\Font\WarNumber\Number10\Number10.fnt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Hue-Fast.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Readme_upgrading.txt" />
+     <None Include="Assets\Shaders\H2shader\H_Mul_liuguang_Ble_Blue.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\Clipper\ClipperLicense.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Resources\Setting\GameSettingDataV2.txt" />
+     <None Include="Assets\Shaders\Game\Particle-Add.shader" />
+     <None Include="Assets\Shaders\Hshader\Depth Mask Complex.shader" />
+     <None Include="Assets\Plugins\UniWebView\Readme.txt" />
+     <None Include="Assets\Shaders\Hshader\H_Clock_add.shader" />
+     <None Include="Assets\GameRes\Font\WarNumber\Number8\Number8.fnt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Shaders\H2shader\H_liuguang_A_Add.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Model-Transparent.shader" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_129_att_1.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\GlowAdditiveSimple.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-UI-Particle-Additive-Turbulence.shader" />
+     <None Include="Assets\Shaders\Gshader\G_distort_add_ScreenUV.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Hue-Slow.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\FXMaker_Mask Alpha Blended Tint.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-UI-Particle-AlphaBlend.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Readme.txt" />
+     <None Include="Assets\Editor\AssetImportConfig\Config\assetImportConfig.txt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Trail_Add_P.shader" />
+     <None Include="Assets\Plugins\Android\XinGe\AndroidManifest.xml" />
+     <None Include="Assets\Shaders\Yshader\Y_ap_raodong.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\Particle Add noztest.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolveRim_blend2_db.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\DepthMaskModel.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\Shaders\Hshader\H_rongjie_add.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\FXMaker_Mask Additive Tint.shader" />
+     <None Include="Assets\Shaders\H2shader\H_SubDissolve_Par_Blend.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Plugins\Android\CiluSdk\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha (TextureClip) 2.shader" />
+     <None Include="Assets\GameRes\Font\Number\Number12\Number12.fnt" />
+     <None Include="Assets\Shaders\H2shader\H_Clock_add.shader" />
+     <None Include="Assets\GameRes\Effect\Magic\Skill_eff_155_att\Materials\Skill_eff_155_att.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_blend4.shader" />
+     <None Include="Assets\readme.txt" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\Dissolve_AB.shader" />
+     <None Include="Assets\Standard Assets\DOTween\DOTween43.xml" />
+     <None Include="Assets\Shaders\BaoyuShader\Trail Additive Turbulence.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_blend.shader" />
+     <None Include="Assets\Shaders\Gshader\G_GradientMask_blend.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\Particle Alpha Blend.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha 3.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\JsonFx\JsonFxLicense.txt" />
+     <None Include="Assets\Shaders\H2shader\H_Spread_Blend_P.shader" />
+     <None Include="Assets\Shaders\Yshader\buff_eff_10003_foot.shader" />
+     <None Include="Assets\Shaders\Hshader\H_raodong_Blend.shader" />
+     <None Include="Assets\Shaders\Yshader\buff_eff_10008_foot.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\Plugins\JsonFx\Readme.txt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Model.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Transparent.shader" />
+     <None Include="Assets\Shaders\Hshader\H_Disturbance_add.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
+     <None Include="Assets\Standard Assets\EasyTouchBundle\EasyTouch\RealseNotes.txt" />
+     <None Include="Assets\Standard Assets\ToLua\readme.txt" />
+     <None Include="Assets\Shaders\Game\TextureCover.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha 2.shader" />
+     <None Include="Assets\Editor\AstarPathfindingProject\EditorAssets\Materials\NavmeshOutline.shader" />
+     <None Include="Assets\Shaders\Hshader\H_liuguang_ADD03.shader" />
+     <None Include="Assets\Shaders\Gshader\Particle Premultiply Blend.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Xray.shader" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Shaders\Yshader\Y_ad_raodong.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Freaks_BLe02.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-UI-Particle-Additive.shader" />
+     <None Include="Assets\Plugins\Android\Crasheye\AndroidManifest.xml" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-UI-CloudEffect.shader" />
+     <None Include="Assets\Standard Assets\EasyTouchBundle\EasyTouch\How to migrate from EasyTouch 4.X.txt" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\Particle Add.shader" />
+     <None Include="Assets\Plugins\Android\ReYunSDK\AndroidManifest.xml" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_rimblend_db2.shader" />
+     <None Include="Assets\Shaders\H2shader\H_liuguang_M_Add.shader" />
+     <None Include="Assets\GameRes\Font\Number\Number2\Number2.fnt" />
+     <None Include="Assets\Shaders\Yshader\skill_eff_129_att_2.shader" />
+     <None Include="Assets\Shaders\Game\mHoles.shader" />
+     <None Include="Assets\Shaders\Game\Particle-Blend.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-RimLight.shader" />
+     <None Include="Assets\StreamingAssets\GameSettingDataInAssetV2.txt" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Unlit-Hue-Debug.shader" />
+     <None Include="Assets\Shaders\Hshader\H_SubDissolve_Par_add.shader" />
+     <None Include="Assets\Shaders\Gshader\G_dissolve_add3.shader" />
+     <None Include="Assets\Shaders\H2shader\H_Disturbance_Ble.shader" />
+     <None Include="Assets\Standard Assets\AstarPathfindingProject\link.xml" />
+     <None Include="Assets\Plugins\Android\UniWebView\AndroidManifest.xml" />
+     <None Include="Assets\Shaders\BaoyuShader\Baoyu-Diffuse-AlphaTest.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\Additive Turbulence.shader" />
+     <None Include="Assets\Shaders\DragonEffect\Shaders\Particle Alpha Blend Lv2.shader" />
+     <None Include="Assets\Shaders\BaoyuShader\SM_TransparentRim.shader" />
+     <None Include="Assets\Plugins\PathologicalGames\readme.txt" />
+     <None Include="Assets\Standard Assets\NGUI\Resources\Shaders\Unlit - Transparent RGB Alpha.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.EditorTestsRunner">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Networking">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TreeEditor">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenEditor">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Editor/DOTween/DOTweenEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Debugger">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/Debugger.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zlib.CF">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/Ionic.Zlib.CF.dll</HintPath>
+ </Reference>
+ <Reference Include="CrasheyeLib">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/Crasheye/CrasheyeLib.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N.CJK">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/x86_64/I18N.CJK.dll</HintPath>
+ </Reference>
+ <Reference Include="I18N">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/x86_64/I18N.dll</HintPath>
+ </Reference>
+ <Reference Include="YamlDotNet">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Plugins/YamlDotNet/YamlDotNet.dll</HintPath>
+ </Reference>
+ <Reference Include="Antares.QRCode">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/Antares.QRCode/Antares.QRCode.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.ClipperLib">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/AstarPathfindingProject/Plugins/Clipper/Pathfinding.ClipperLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.JsonFx">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Poly2Tri">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/AstarPathfindingProject/Plugins/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="zxing.unity">
+ <HintPath>E:/1030/[src.cool]白娘子传奇/Client/Assets/Standard Assets/ZXing/zxing.unity.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+ <HintPath>D:/Program Files/Unity54/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{079D398E-4AFC-CD7E-7881-F923D075EBD1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{12F44184-A422-5F27-22E6-507969043F15}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{2292066C-03A4-5733-4636-43653C20A180}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

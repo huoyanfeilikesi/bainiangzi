@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1082805824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adb718f582e801521aab3d18527d07c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 066df7f8d2488771e469c81a51e39d68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c041f61e4a9fbf4e830210f5d933ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d44bc69c2ca5f943b845318866dc1bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/SdkAcccountPrefabs/BaseUI/BaseWindow.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- _GameBundles/android/gameres/lz4/atlas/refcommonbgatlas

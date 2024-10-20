@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2576750691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c30a5c7ffb8b55fd90ea614f4e9d1a7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_pingfendi.png
+Dependencies: []

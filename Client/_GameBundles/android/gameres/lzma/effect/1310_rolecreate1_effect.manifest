@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1369923428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a613b78fb741b4cbeb8fcfaa699bfc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0667443fb14e74781beb57b5943096c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Character/1310_rolecreate1_effect/Prefabs/1310_rolecreate1_effect.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/trail_303
+- _GameBundles/android/gameres/lzma/effect/gradient_502
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/noise_502
+- _GameBundles/android/gameres/lzma/effect/trail_111
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/glow_001
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/flash_030
+- _GameBundles/android/gameres/lzma/effect/trail_503_red
+- _GameBundles/android/gameres/lzma/effect/other_003
+- _GameBundles/android/gameres/lzma/effect/trail_468
+- _GameBundles/android/gameres/lzma/effect/trail_038
+- _GameBundles/android/gameres/lzma/effect/ring_509
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/effect/light_507
+- _GameBundles/android/gameres/lzma/effect/trail_039
+- _GameBundles/android/gameres/lzma/effect/trail_327
+- _GameBundles/android/gameres/lzma/effect/ring_513
+- _GameBundles/android/gameres/lzma/effect/ring_510
+- _GameBundles/android/gameres/lzma/effect/trail_504
+- _GameBundles/android/gameres/lzma/effect/flash_506
+- _GameBundles/android/gameres/lzma/effect/ring_002
+- _GameBundles/android/gameres/lzma/effect/ring_508
+- _GameBundles/android/gameres/lzma/effect/object_500
+- _GameBundles/android/gameres/lzma/effect/object_502
+- _GameBundles/android/gameres/lzma/effect/flash_021
+- _GameBundles/android/gameres/lzma/effect/daoguang_312

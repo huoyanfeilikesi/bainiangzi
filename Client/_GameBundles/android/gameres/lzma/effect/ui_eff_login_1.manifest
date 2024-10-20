@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1209467835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d9e36547bb7fc990dbeb03cb9b00fe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cdcb7ab556ca5d4f75b16e44a0c873f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_1/Textures/ui_eff_login_1.tga
+- Assets/GameRes/Effect/UI/ui_eff_login_1/Prefabs/ui_eff_login_1.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/gradient_202_c
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/noise_318
+- _GameBundles/android/gameres/lzma/effect/noise_320
+- _GameBundles/android/gameres/lzma/effect/particles_028
+- _GameBundles/android/gameres/lzma/effect/lianxu_304
+- _GameBundles/android/gameres/lzma/effect/water_203
+- _GameBundles/android/gameres/lzma/effect/particles_550
+- _GameBundles/android/gameres/lzma/effect/object_007
+- _GameBundles/android/gameres/lzma/effect/ui_eff_login_1_4
+- _GameBundles/android/gameres/lzma/effect/ui_eff_login_1_1
+- _GameBundles/android/gameres/lzma/effect/ui_eff_login_5
+- _GameBundles/android/gameres/lzma/effect/ui_eff_login_1_2
+- _GameBundles/android/gameres/lzma/effect/ui_eff_login_1_3

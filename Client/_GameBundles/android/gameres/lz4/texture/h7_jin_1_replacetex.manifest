@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 379338012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad80637fe348f593e2826d043ea60301
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ReplaceTex/h7_jin_1_ReplaceTex.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1817596402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b457b67ee53ec4aaf045bc177ad7230b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/fmt7.png
+Dependencies: []

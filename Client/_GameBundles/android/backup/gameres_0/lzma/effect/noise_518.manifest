@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 202336352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b08d2f66028ec51cf1822c0b0efbe5a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/noise_518.png
+Dependencies: []

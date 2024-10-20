@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 571293372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 125d473ae3fd92973ed6beb68c1f2f14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/flash_204.png
+Dependencies: []

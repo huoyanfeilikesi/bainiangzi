@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3960233661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0321170e56ede9b3eb71d56f6cd617b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0047/Textures/word_455.png
+Dependencies: []

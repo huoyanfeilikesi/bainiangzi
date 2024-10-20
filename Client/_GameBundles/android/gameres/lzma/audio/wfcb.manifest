@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 592742565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b89b9cff692a69257ffa270790c7c2fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/wfcb.ogg
+Dependencies: []

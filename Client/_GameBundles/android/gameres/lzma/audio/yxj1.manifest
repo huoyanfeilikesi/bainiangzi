@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3105674171
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 868c64619190da65dd1a97192d1c4cd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/yxj1.mp3
+Dependencies: []

@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 509318681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64640c50f1729a68adea48c2d8b3d8b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc3fc5c7950ce968b73df37daf7dc96f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10002_head/Prefabs/buff_eff_10002_head.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/other_072
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/particles_001

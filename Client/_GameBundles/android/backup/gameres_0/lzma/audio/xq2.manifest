@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3900157950
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4613f26458d4f31c05b76a2aa71968fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xq2.mp3
+Dependencies: []

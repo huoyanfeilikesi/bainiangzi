@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 3629057076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bbb9a3c068bb4ac89016db72197a459
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb38afeb545b58f3a2cee47640a30e5f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb8a270cec2f49041a753f50b2095351, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/YiBao/InteractionView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- _GameBundles/android/gameres/lz4/atlas/reftaskatlas
+- _GameBundles/android/gameres/lz4/font/emoticonatlas
+- _GameBundles/android/gameres/lz4/font/myfont
+- _GameBundles/android/gameres/lz4/texture/ui_behind_layer
+- _GameBundles/android/gameres/lz4/texture/h7_huajuan
+- _GameBundles/android/gameres/lz4/texture/h7_lingxixin_1
+- _GameBundles/android/gameres/lz4/texture/h7_huajuan_1
+- _GameBundles/android/gameres/lz4/texture/h7_lingxixin_2
+- _GameBundles/android/gameres/lz4/material/mholematerial

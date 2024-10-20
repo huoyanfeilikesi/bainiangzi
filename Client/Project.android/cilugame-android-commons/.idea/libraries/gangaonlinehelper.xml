@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gangaonlinehelper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yijieproxy/libs/gangaonlinehelper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

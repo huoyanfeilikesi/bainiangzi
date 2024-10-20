@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3696590333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9102572c56f7eb0052e6ea2bf4a725a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/4003/Materials/model4003.mat
+- Assets/GameRes/Model/Character/4003/Textures/model4003.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

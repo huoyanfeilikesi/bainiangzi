@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2093145667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec6156fb804ce77d7c08767f430a840f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/60105/Textures/model60105.png
+- Assets/GameRes/Model/Character/60105/Textures/model60105_mask.png
+- Assets/GameRes/Model/Character/60105/Materials/model60105.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_201

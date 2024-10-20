@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1601643215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9abb15b56362a972f0d9e9f613ab0ef4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0004/Prefabs/scene_eff_0004.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/smoke_435
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/effect/trail_326_c
+- _GameBundles/android/gameres/lzma/effect/smoke_412
+- _GameBundles/android/gameres/lzma/effect/smoke_423

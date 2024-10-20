@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3667425161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f198ab5cb9859abbef24040316960c41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7d5eec097b40714f4f0bbec6d818cb7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0069/Prefabs/ui_eff_0069.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/flash_205
+- _GameBundles/android/gameres/lzma/effect/particles_005
+- _GameBundles/android/gameres/lzma/effect/ring_514
+- _GameBundles/android/gameres/lzma/effect/particles_0041
+- _GameBundles/android/gameres/lzma/effect/ring_064

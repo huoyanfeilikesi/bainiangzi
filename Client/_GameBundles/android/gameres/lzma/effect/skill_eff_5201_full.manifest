@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3571467863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 092f6a25b17c88d11c494876d529a737
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12722a0d55d4b3ae7b3c0e775b449836
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64641601b2551f241906dcc0ea1fb852, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5201_full/Prefabs/skill_eff_5201_full.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/particles_005
+- _GameBundles/android/gameres/lzma/effect/trail_468
+- _GameBundles/android/gameres/lzma/effect/smoke_510
+- _GameBundles/android/gameres/lzma/effect/light_507
+- _GameBundles/android/gameres/lzma/effect/fire_002
+- _GameBundles/android/gameres/lzma/effect/noise_530
+- _GameBundles/android/gameres/lzma/effect/fire_526
+- _GameBundles/android/gameres/lzma/effect/fire_514
+- _GameBundles/android/gameres/lzma/effect/ring_030
+- _GameBundles/android/gameres/lzma/effect/ring_109
+- _GameBundles/android/gameres/lzma/effect/fire_003
+- _GameBundles/android/gameres/lzma/effect/fire_606

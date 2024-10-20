@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 798659148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f79bc7987511d6741fd5c118fbb7619
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xycf1.ogg
+Dependencies: []

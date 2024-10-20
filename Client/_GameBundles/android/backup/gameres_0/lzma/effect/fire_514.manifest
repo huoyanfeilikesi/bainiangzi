@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1350055582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11102ab35532206663d47a3983afbf31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/fire_514.png
+Dependencies: []

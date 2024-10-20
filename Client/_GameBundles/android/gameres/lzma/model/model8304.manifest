@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3467036643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15575fa0695c8c90589f7396c3dce648
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2896e09ed1c1fdff7cacb0e32f001f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8304/Prefabs/model8304.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/flash_205
+- _GameBundles/android/gameres/lzma/effect/particles_0041
+- _GameBundles/android/gameres/lzma/model/model8304_mat
+- _GameBundles/android/gameres/lzma/model/animator8304

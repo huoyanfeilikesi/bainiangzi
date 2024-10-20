@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2185651086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2750248bc3842981fdb6c83b78b71978
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Ranse/h7_bg_21.png
+Dependencies: []

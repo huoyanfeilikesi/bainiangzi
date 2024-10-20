@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3862819637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e18910a4e17a0948921955cc1e5bfac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc3fc5c7950ce968b73df37daf7dc96f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0057/Prefabs/ui_eff_0057.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/gradient_304_1
+- _GameBundles/android/gameres/lzma/effect/particles_550
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_6
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_3
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_2
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_4
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_1
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0057_5

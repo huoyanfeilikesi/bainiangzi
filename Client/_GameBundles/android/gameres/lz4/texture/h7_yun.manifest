@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1004632659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95fe1501aedfe2a57ac6a5c423da2bae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_yun.png
+- Assets/GameRes/Texture/Skill/h7_yun.png
+Dependencies: []

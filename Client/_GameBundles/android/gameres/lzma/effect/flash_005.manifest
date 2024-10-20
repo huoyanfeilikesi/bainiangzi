@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 414421344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf0f37684474d1e186c7c0803c9fe64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/flash_005.png
+Dependencies: []

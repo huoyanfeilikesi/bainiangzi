@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1551221774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cbc9f8af651dffbcfd6fa2ef280f6f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/fmt3.png
+Dependencies: []

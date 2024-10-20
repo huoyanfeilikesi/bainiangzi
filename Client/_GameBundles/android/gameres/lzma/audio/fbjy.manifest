@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3590392893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bfe12d1991d181ad0467efb16b6a2f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/fbjy.mp3
+Dependencies: []

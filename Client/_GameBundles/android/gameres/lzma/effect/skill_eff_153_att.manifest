@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2356540677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07224cdbe46275e0f62bbd9256591e52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1f6b99877bf3a0cb1882ac090b35c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_153_att/Prefabs/skill_eff_153_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/trail_303
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/noise_500
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/gradient_501
+- _GameBundles/android/gameres/lzma/effect/water_502
+- _GameBundles/android/gameres/lzma/effect/noise_502
+- _GameBundles/android/gameres/lzma/effect/other_013
+- _GameBundles/android/gameres/lzma/effect/smoke_002
+- _GameBundles/android/gameres/lzma/effect/smoke_009
+- _GameBundles/android/gameres/lzma/effect/word_001
+- _GameBundles/android/gameres/lzma/effect/other_451
+- _GameBundles/android/gameres/lzma/effect/word_007
+- _GameBundles/android/gameres/lzma/effect/trail_111
+- _GameBundles/android/gameres/lzma/effect/flash_501
+- _GameBundles/android/gameres/lzma/effect/flash_103
+- _GameBundles/android/gameres/lzma/effect/ring_108
+- _GameBundles/android/gameres/lzma/effect/trail_025
+- _GameBundles/android/gameres/lzma/effect/ring_433_red
+- _GameBundles/android/gameres/lzma/effect/other_014

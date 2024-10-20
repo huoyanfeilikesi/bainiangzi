@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2905362505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71f53f9a6e7e373925fad351b5962ee8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/3120/Materials/model3120_mask.mat
+- Assets/GameRes/Model/Character/3120/Textures/model3120.png
+- Assets/GameRes/Model/Character/3120/Materials/model3120_weapon.mat
+- Assets/GameRes/Model/Character/3120/Textures/model3120_weapon.png
+- Assets/GameRes/Model/Character/3120/Textures/model3120_mask.png
+- Assets/GameRes/Model/Character/3120/Materials/model3120.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

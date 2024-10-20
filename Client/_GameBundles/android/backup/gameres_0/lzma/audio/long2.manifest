@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1531557062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3ced72e53d9a9415a2299436e0febe4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/long2.ogg
+Dependencies: []

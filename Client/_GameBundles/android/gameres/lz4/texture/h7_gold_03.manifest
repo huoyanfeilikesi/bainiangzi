@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1074186746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cce2caae059926d27760e0f9cff1f6d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_gold_03.png
+Dependencies: []

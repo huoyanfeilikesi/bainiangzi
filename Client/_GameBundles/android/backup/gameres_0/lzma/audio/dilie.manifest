@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4229733387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0df0111a77e8d626446119ca2863e5c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/dilie.ogg
+Dependencies: []

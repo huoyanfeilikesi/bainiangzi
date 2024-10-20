@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3453572533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f622919e05d921a2bc1802761ab6ebed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfb5be798162120cd75c190925e62679
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8406/Prefabs/model8406.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/flash_205
+- _GameBundles/android/gameres/lzma/model/model8406_mat
+- _GameBundles/android/gameres/lzma/model/animator8406

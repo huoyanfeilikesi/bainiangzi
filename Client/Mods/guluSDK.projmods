@@ -1,0 +1,24 @@
+{
+    "group": "GuluGameSDK",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": [],
+    "embed_binaries": [],
+    "files":   ["iOS/GuluGameSDK/GuluGameSDK.framework"],
+    "folders": ["iOS/GuluGameSDK/Libs",
+                "iOS/GuluGameSDK/Resources",
+                "iOS/GuluGameSDK/MySDK"],
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$", "^.*.DS_Store$"],
+    "compiler_flags": [],
+    "linker_flags": ["-ObjC"],
+    "plist":
+    {
+        "urltype" :
+        [
+            {
+                "name": "gulugulu",
+                "schemes": ["gldd1017"],
+            },
+        ],
+    },
+}

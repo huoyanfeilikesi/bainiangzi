@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 889962833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa9445734cf6054cf9288120d7332893
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Mail/xsydy21.mp3
+Dependencies: []

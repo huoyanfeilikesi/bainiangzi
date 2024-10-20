@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2388671769
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 783f0a0eb828ee8a5065e98ce73c6adc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/nanzi2.mp3
+Dependencies: []

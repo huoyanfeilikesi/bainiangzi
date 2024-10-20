@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/acfunproxy" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demiframe" />
+            <option value="$PROJECT_DIR$/demiproxy" />
+            <option value="$PROJECT_DIR$/huaweiproxy" />
+            <option value="$PROJECT_DIR$/nubiyaproxy" />
+            <option value="$PROJECT_DIR$/oppoproxy" />
+            <option value="$PROJECT_DIR$/qihooproxy" />
+            <option value="$PROJECT_DIR$/shoumengproxy" />
+            <option value="$PROJECT_DIR$/shunwangproxy" />
+            <option value="$PROJECT_DIR$/ucproxy" />
+            <option value="$PROJECT_DIR$/vivoproxy" />
+            <option value="$PROJECT_DIR$/xiaomiproxy" />
+            <option value="$PROJECT_DIR$/yeproxy" />
+            <option value="$PROJECT_DIR$/yijieproxy" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

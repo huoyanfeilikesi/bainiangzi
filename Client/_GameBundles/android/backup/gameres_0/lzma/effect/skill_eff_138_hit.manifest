@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 228956728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51384312444e2a96dfdd5bd2ac8e3b86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29d15a47ec283ea4951f6bf6ba2e6bba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_138_hit/Prefabs/skill_eff_138_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/water_003
+- _GameBundles/android/gameres/lzma/effect/smoke_411_2
+- _GameBundles/android/gameres/lzma/effect/trail_502

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1196160807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd2c996a3717e12159170d72db1c7f01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ea8aae3fe9196714c907f5c6ca1dab4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/UIHudLayers.prefab
+Dependencies: []

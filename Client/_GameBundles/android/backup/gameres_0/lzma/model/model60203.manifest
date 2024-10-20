@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 310376684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a68e3ee2b0a932b1f68ba2920a92fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b603e72661a53383676cb47164408fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/60203/Prefabs/model60203.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/particles_0041
+- _GameBundles/android/gameres/lzma/effect/particles_009
+- _GameBundles/android/gameres/lzma/effect/object_301
+- _GameBundles/android/gameres/lzma/effect/fire_005
+- _GameBundles/android/gameres/lzma/model/model60203_mat
+- _GameBundles/android/gameres/lzma/model/animator60203

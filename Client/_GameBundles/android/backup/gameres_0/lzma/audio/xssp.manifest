@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2465975039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77fe421b677574dde74a32210ba2cdeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xssp.ogg
+Dependencies: []

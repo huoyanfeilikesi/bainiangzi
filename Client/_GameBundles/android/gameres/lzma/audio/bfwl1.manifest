@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1083508335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58a1d0c93ab23b41a3f4219af9cd0316
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/bfwl1.ogg
+Dependencies: []

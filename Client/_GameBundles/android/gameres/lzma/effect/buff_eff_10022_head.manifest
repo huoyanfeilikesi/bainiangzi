@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3676878230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2448a90607f0616483170708e6b1d00a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10022_head/Prefabs/buff_eff_10022_head.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/ring_488
+- _GameBundles/android/gameres/lzma/effect/other_321
+- _GameBundles/android/gameres/lzma/effect/flash_206

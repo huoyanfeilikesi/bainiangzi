@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 610913858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc1be1c15297a9b6b3a0b4eaa62a6fd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/fh2.mp3
+Dependencies: []

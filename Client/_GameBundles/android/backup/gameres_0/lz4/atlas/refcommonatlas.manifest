@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4009292701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4da825c732c3e7331da165b24a1bb47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0565bcd363ee5f0296a1e5caf2afe395
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/StaticAtlas/CommonAtlas/CommonAtlas.png
+- Assets/GameRes/Atlas/RefCommonAtlas.prefab
+- Assets/GameRes/Atlas/StaticAtlas/CommonAtlas/CommonAtlas_Alpha_x2.png
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 435755210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 680df138f3ba8e6831bf76456da9c6f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Template/CharacterAnim/Base/idleCity.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack9.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/hit2.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/idleRide.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/idleWar.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/die.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/AnimatorBase_wp.controller
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack7.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/hit1.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack1.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/dance.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack5.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/magic.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/AnimatorBase_2.controller
+- Assets/GameRes/Model/Template/CharacterAnim/Base/show3.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack2.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/show.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack6.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/runWar.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/walk.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/run.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack4.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/AnimatorBase.controller
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack3.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/attack8.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/show2.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/defend.anim
+- Assets/GameRes/Model/Template/CharacterAnim/Base/runRide.anim
+Dependencies: []

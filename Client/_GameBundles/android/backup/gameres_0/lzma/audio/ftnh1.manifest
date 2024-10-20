@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2157981640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4095205f22f6c3b41f5d0e6d65b6caa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/ftnh1.ogg
+Dependencies: []

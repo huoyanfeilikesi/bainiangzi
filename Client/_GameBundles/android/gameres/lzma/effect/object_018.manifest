@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2905809876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d03ce47aeb4f98e08d6fbb1fe9dd363
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/object_018.tga
+Dependencies: []

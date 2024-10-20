@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 155837305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 546fcb23aede910d324a580a347736bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1ef6a47227414d652e61c22032f5b70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a97fd22a29cc1e438aac50f9ddf23e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/NormalTitleHud.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/font/myfont

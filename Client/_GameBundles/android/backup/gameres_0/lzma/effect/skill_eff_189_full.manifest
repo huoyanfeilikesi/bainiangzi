@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1814292139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 028cdbfff2a84101a25d7854c4d5dba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ca8d7edd2950331b551e009d2a0153d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_189_full/Prefabs/Skill_eff_189_full.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/trail_498
+- _GameBundles/android/gameres/lzma/effect/particles_445
+- _GameBundles/android/gameres/lzma/effect/ring_514
+- _GameBundles/android/gameres/lzma/effect/ring_022
+- _GameBundles/android/gameres/lzma/effect/smoke_510
+- _GameBundles/android/gameres/lzma/effect/flash_009
+- _GameBundles/android/gameres/lzma/effect/light_507
+- _GameBundles/android/gameres/lzma/effect/particles_500
+- _GameBundles/android/gameres/lzma/effect/flash_516
+- _GameBundles/android/gameres/lzma/effect/noise_528
+- _GameBundles/android/gameres/lzma/effect/trail_326_c
+- _GameBundles/android/gameres/lzma/effect/ring_521
+- _GameBundles/android/gameres/lzma/effect/object_216
+- _GameBundles/android/gameres/lzma/effect/object_510

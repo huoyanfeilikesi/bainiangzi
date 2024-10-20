@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3278281739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afdef335975641980fdef67ce4be4d31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/ljgz3.mp3
+Dependencies: []

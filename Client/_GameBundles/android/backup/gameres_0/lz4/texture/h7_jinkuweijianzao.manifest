@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 613062728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bf534183f07ce03193ccbe58975fba5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Org/h7_jinkuweijianzao.png
+Dependencies: []

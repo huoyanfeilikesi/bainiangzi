@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1936251921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1153e50372af03ee0cebfb6fcbe8e4c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/glow_007.png
+- Assets/GameRes/Effect/commons_new/Textures/glow_007.png
+Dependencies: []

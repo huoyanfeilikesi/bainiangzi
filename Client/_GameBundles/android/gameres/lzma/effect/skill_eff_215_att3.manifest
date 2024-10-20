@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4014711611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0db515005135db8ace772ed95522df8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a9c02f4d5189adaa7b97d8db1503a2d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbb4464b9a6ccbe4abcd5cd898113e22, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_215_att/Prefabs/skill_eff_215_att3.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/trail_111
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/trail_503_red
+- _GameBundles/android/gameres/lzma/effect/ring_509
+- _GameBundles/android/gameres/lzma/effect/trail_039
+- _GameBundles/android/gameres/lzma/effect/trail_327
+- _GameBundles/android/gameres/lzma/effect/ring_513
+- _GameBundles/android/gameres/lzma/effect/daoguang_104
+- _GameBundles/android/gameres/lzma/effect/ring_087
+- _GameBundles/android/gameres/lzma/effect/flash_507
+- _GameBundles/android/gameres/lzma/effect/ring_524

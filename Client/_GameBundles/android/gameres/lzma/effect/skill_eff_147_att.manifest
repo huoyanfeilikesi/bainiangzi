@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1637067929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7e63f0c48f11538a7ced7812c3f870d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cdcb7ab556ca5d4f75b16e44a0c873f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_147_hit/Prefabs/skill_eff_147_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/fazhen_312
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/ring_003
+- _GameBundles/android/gameres/lzma/effect/gradient_501
+- _GameBundles/android/gameres/lzma/effect/ring_455
+- _GameBundles/android/gameres/lzma/effect/water_502
+- _GameBundles/android/gameres/lzma/effect/ring_002
+- _GameBundles/android/gameres/lzma/effect/ring_108
+- _GameBundles/android/gameres/lzma/effect/ring_111

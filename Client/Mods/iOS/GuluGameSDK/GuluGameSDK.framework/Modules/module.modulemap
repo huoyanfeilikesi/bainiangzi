@@ -1,0 +1,6 @@
+framework module GuluGameSDK {
+  umbrella header "GuluGameSDK.h"
+
+  export *
+  module * { export * }
+}

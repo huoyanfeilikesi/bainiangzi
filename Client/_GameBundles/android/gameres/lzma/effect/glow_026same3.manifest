@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2188560145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ae86fbecd9f5abedc9c1f726c24a7da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/glow_026same3.png
+Dependencies: []

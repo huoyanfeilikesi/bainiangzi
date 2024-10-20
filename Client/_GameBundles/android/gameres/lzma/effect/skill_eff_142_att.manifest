@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3674133007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39b9e3384bc48fb43fbe196abfc7afd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3946113e673af1f61d3b272d30a02ddb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_142_att/Prefabs/Skill_eff_142_att.prefab
+- Assets/GameRes/Effect/Magic/skill_eff_142_att/Materials/Skill_eff_142_att.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/other_503
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/noise_318
+- _GameBundles/android/gameres/lzma/effect/gradient_507
+- _GameBundles/android/gameres/lzma/effect/smoke_513
+- _GameBundles/android/gameres/lzma/effect/particles_034
+- _GameBundles/android/gameres/lzma/effect/ring_521
+- _GameBundles/android/gameres/lzma/effect/ring_064
+- _GameBundles/android/gameres/lzma/effect/object_511

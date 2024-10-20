@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1220582868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3b5f93c53a8a01cfb8e094e43dda5f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8215/Textures/model8215.png
+- Assets/GameRes/Model/Character/8215/Materials/model8215.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

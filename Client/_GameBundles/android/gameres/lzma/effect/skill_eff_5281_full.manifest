@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1093675740
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23030724998dbbac59476e0329d2992a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5281_full/Prefabs/skill_eff_5281_full.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/flash_004
+- _GameBundles/android/gameres/lzma/effect/light_507
+- _GameBundles/android/gameres/lzma/effect/others_505
+- _GameBundles/android/gameres/lzma/effect/others_538
+- _GameBundles/android/gameres/lzma/effect/others_503
+- _GameBundles/android/gameres/lzma/effect/others_509

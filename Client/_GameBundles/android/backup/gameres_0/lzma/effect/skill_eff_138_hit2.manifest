@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 170292704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a39c8f2cd7afc422b9c82c9626c1ec8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_138_hit/Prefabs/skill_eff_138_hit2.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/other_030
+- _GameBundles/android/gameres/lzma/effect/water_003
+- _GameBundles/android/gameres/lzma/effect/smoke_411_2
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/object_501

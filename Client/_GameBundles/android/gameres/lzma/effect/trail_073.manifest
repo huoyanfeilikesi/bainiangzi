@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 549492696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36be4fff264830aa5e86753b5931e8f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/trail_073.png
+- Assets/GameRes/Effect/commons/Textures/trail_073.png
+Dependencies: []

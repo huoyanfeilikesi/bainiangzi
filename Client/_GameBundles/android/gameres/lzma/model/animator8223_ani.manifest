@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 76047958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f00ecde68e95e23f81357bfb82868b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d792f836d200398aef546d311bd6c933
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8223/Anim/Animator8223_ani.overrideController
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/characteranim/base

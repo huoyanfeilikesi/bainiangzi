@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 815090838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d13dcbfe3a861c5769d23ce1b3b0b4f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/qin.ogg
+Dependencies: []

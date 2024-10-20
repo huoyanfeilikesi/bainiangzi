@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 504532866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78f8f81f6e9aab381c609a33ecc6fcb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/h7_mask_big.png
+Dependencies: []

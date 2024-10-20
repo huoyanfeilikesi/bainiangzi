@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 219818316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cd3eda7f6a7447e1b5f4210f54f0b1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f12d2ffa7c23048dc34fe342278aabd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_177_hit/Prefabs/skill_eff_177_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/glow_001
+- _GameBundles/android/gameres/lzma/effect/ring_461
+- _GameBundles/android/gameres/lzma/effect/other_312
+- _GameBundles/android/gameres/lzma/effect/other_206

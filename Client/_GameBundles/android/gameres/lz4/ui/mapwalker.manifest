@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 483468340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 194d51cad65de781b72933393d63c1b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0dacc8817585bf22a8df82be710e5a79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0dfeadc0499d35408ccfa9a2a3166f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1287745f3a3a0494081e4fab357ed540, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Misc/MapWalker.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/texture/footshadow

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1953464931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75543e9d92eaf2769239ceecced75f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cdcb7ab556ca5d4f75b16e44a0c873f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0046/Prefabs/scene_eff_0046.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_001
+- _GameBundles/android/gameres/lzma/effect/particles_034
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/effect/trail_098
+- _GameBundles/android/gameres/lzma/effect/zhadan_101
+- _GameBundles/android/gameres/lzma/effect/particles_013
+- _GameBundles/android/gameres/lzma/effect/fireworks_506

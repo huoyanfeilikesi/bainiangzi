@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 626886236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4844e74ed15316e73b55ef0437b34d6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b7f490aa35c575f38f68a7c9e4ef0c42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_114_full/Prefabs/Skill_eff_114_full02.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/gradient_305
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/noise_500
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/wave01_blue
+- _GameBundles/android/gameres/lzma/effect/fazhen_312
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/ring_003
+- _GameBundles/android/gameres/lzma/effect/gradient_001
+- _GameBundles/android/gameres/lzma/effect/smoke_435
+- _GameBundles/android/gameres/lzma/effect/light_507
+- _GameBundles/android/gameres/lzma/effect/explosion_001
+- _GameBundles/android/gameres/lzma/effect/ring_043
+- _GameBundles/android/gameres/lzma/effect/water_004
+- _GameBundles/android/gameres/lzma/effect/water_321
+- _GameBundles/android/gameres/lzma/effect/smoke_004
+- _GameBundles/android/gameres/lzma/effect/smoke_008
+- _GameBundles/android/gameres/lzma/effect/ring_101
+- _GameBundles/android/gameres/lzma/effect/noise_544
+- _GameBundles/android/gameres/lzma/effect/smoke_505
+- _GameBundles/android/gameres/lzma/effect/other_006
+- _GameBundles/android/gameres/lzma/effect/noise_004
+- _GameBundles/android/gameres/lzma/effect/lianxu_304
+- _GameBundles/android/gameres/lzma/effect/other_065
+- _GameBundles/android/gameres/lzma/effect/ring_432
+- _GameBundles/android/gameres/lzma/effect/noise_543

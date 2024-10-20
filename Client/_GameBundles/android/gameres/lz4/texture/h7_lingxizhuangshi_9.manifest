@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2118102727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f41167d63a5cc961737cff3f3f10cd4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Task/h7_lingxizhuangshi_9.png
+Dependencies: []

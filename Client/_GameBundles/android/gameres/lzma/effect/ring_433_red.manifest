@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1863298864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 076c8734e04d3aeaca3f27fb2c69ebe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/ring_433_red.png
+Dependencies: []

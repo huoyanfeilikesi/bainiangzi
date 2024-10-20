@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 720787183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b5c59b9a09886ab4d57ce7bc65b2a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Marry/h7_dh_xixi_1.png
+Dependencies: []

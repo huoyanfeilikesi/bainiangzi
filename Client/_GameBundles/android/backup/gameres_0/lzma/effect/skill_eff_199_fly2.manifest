@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3633131829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d6a071dce70be1e0468d21c851f324f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cdcb7ab556ca5d4f75b16e44a0c873f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_199_fly/Prefabs/skill_eff_199_fly2.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/smoke_002
+- _GameBundles/android/gameres/lzma/effect/white_mask

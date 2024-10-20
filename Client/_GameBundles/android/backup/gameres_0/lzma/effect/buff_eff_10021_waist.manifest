@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1512804122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e39fcc4dad391e42ab128ceb3daf1079
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d01860fd74eb9658bbc51af3b1dba475
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10021_waist/Prefabs/buff_eff_10021_waist.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/fire_001
+- _GameBundles/android/gameres/lzma/effect/noise_500
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/noise_502
+- _GameBundles/android/gameres/lzma/effect/word_001
+- _GameBundles/android/gameres/lzma/effect/other_451
+- _GameBundles/android/gameres/lzma/effect/word_007
+- _GameBundles/android/gameres/lzma/effect/fazhen_306
+- _GameBundles/android/gameres/lzma/effect/fazhen_103
+- _GameBundles/android/gameres/lzma/effect/other_208

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4132933763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c09e60398bbcd7e2e0022d3ffe7b73ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Horse/h7_zq_0.png
+Dependencies: []

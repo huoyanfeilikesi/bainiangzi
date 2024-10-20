@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3799845352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c381b482f1a6fcbc99edeaf897dd89c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/flash_513.png
+Dependencies: []

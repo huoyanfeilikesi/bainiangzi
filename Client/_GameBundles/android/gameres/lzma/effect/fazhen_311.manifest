@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1132580518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9356e98f38bdb4c479996c37e3b3aae9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fazhen_311.png
+Dependencies: []

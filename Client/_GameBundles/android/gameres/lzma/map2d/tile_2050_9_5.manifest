@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 851394810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47d490cafa2e7ac42f8d08aca9d7f87f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/2050/tilemap_2050/tile_2050_9_5.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1392469202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b18a5cbd43c018c7f568d7568489c5fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6a9e4149af2e9e0805fc21f5a860a6c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/MyFont/DFPYuanW5.ttf
+Dependencies: []

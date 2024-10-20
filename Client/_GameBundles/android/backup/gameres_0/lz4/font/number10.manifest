@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2791022790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2531a29864d3848832cb735b250dc47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce2d53e3ec6179c555a7b24379ee7b8d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/WarNumber/Number10/Number10.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

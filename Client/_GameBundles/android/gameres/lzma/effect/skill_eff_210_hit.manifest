@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2538353891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aedfd3631de55c07e6e59213debff94c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec21e4b4305ac874d04b6feb99e2d5f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_210_hit/Prefabs/Skill_eff_210_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/glow_017
+- _GameBundles/android/gameres/lzma/effect/object_505_c
+- _GameBundles/android/gameres/lzma/effect/flash_206
+- _GameBundles/android/gameres/lzma/effect/smoke_513
+- _GameBundles/android/gameres/lzma/effect/particles_500

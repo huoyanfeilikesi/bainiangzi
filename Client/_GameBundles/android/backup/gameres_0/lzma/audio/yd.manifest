@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1289718439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa0286addb30043c4211aac5d231cbc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/yd.ogg
+Dependencies: []

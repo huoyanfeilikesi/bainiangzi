@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2074800115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccbfedc843c9cb0dc341e2ba6d99fbb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93fab1a554536342829aaef3273cae2e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/5147/Prefabs/model5147.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/glow_015
+- _GameBundles/android/gameres/lzma/effect/object_511
+- _GameBundles/android/gameres/lzma/effect/smoke_024
+- _GameBundles/android/gameres/lzma/model/model5147_mat
+- _GameBundles/android/gameres/lzma/model/animator5147

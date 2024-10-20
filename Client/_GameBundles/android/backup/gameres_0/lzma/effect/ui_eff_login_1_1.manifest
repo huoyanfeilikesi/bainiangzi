@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 904568270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6de9b8ad6dc3ad9c84175eec4636f2c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_1/Textures/ui_eff_login_1_1.tga
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 409494112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4729a21894197c1e32d3ac2b8d8ec867
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/4010/tilemap_4010/tile_4010_3_5.png
+Dependencies: []

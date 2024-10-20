@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2378665996
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce29c82c51aa4160c53ee11ce94313bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_ybkh.png
+Dependencies: []

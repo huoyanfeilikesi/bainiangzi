@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3770430078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2308801c342ad8debdae67b994a465ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jlq2.ogg
+Dependencies: []

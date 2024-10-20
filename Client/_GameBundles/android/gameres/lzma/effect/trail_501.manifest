@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3855713547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d49f99ea275bf19b993312ed52db0f00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/trail_501.tga
+Dependencies: []

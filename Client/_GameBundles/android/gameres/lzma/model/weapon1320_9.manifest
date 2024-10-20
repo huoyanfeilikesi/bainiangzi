@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1877954800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 856528fb52c5f1bef179a10c4a8c764e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60376fe18434ae1499ba38d1c025a69e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1320_9/Prefabs/weapon1320_9.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/glow_017
+- _GameBundles/android/gameres/lzma/effect/smoke_513
+- _GameBundles/android/gameres/lzma/effect/object_018
+- _GameBundles/android/gameres/lzma/effect/other_505
+- _GameBundles/android/gameres/lzma/effect/smoke_511
+- _GameBundles/android/gameres/lzma/effect/object_447
+- _GameBundles/android/gameres/lzma/effect/trail_503_red
+- _GameBundles/android/gameres/lzma/effect/trail_083
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_4_2
+- _GameBundles/android/gameres/lzma/effect/gradient_509
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_7_2
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_4_3
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_9_1
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_9_3
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_9_4
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_9_2
+- _GameBundles/android/gameres/lzma/model/weapon1320_4_mat
+- _GameBundles/android/gameres/lzma/model/weapon1320_9_mat

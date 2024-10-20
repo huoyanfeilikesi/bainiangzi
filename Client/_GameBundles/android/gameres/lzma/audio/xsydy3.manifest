@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2982342874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 483a869bf3656c5b8fc5ebf2d24bf06e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xsydy3.mp3
+Dependencies: []

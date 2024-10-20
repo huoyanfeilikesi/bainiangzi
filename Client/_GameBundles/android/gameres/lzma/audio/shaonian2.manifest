@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 650287461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c1528f4517a37fd632c13b0ca20906b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/shaonian2.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2976641428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 643ce878e4a9441e97ec63d60c833ba5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/flash_476.png
+Dependencies: []

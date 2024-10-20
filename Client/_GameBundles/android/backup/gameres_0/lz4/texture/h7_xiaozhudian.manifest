@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1342323824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5699e19ab9599c78f13917f3188dd2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Org/h7_xiaozhudian.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2970449677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7baad957b37e6c04ee165c916c1df934
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Dungeon/dungeon_2030.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2293763799
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 219d42322e8ef75b894491c20e239c9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/cxds1.ogg
+Dependencies: []

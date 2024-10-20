@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1887087822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fc7e5b52c08cdeafcd5359f22da6ec2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/lianxu_304.tga
+Dependencies: []

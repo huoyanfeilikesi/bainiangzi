@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2962211603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 727f67d37fad86c134b2a646ecbe2fa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/zj1.mp3
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3408782755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd39b67b7db65637179d8dbc0bc04bca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abf4678197d7834850e1d8386c0cfca4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/RefSkillAtlas.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/skillatlas1

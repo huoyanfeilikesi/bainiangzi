@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ucgamesdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ucproxy/libs/ucgamesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

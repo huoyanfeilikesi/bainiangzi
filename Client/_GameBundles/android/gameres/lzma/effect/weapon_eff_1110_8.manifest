@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3173274486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1229f5fd29c655c155a2f4f775f6b709
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcb13b811426e4ef4ef1a2c5c4a36a0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/weapon/weapon_eff_1110_8/Prefabs/weapon_eff_1110_8.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/glow_202
+- _GameBundles/android/gameres/lzma/effect/object_216
+- _GameBundles/android/gameres/lzma/effect/flash_027
+- _GameBundles/android/gameres/lzma/effect/weapon1110_4
+- _GameBundles/android/gameres/lzma/effect/weapon1110_6
+- _GameBundles/android/gameres/lzma/effect/1110_8

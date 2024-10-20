@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2083664231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a9963226442d049e43f64126071058c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4a93e51b2475597f0edb01e8cd228ce
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/5130/Prefabs/model5130.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/trail_523
+- _GameBundles/android/gameres/lzma/effect/trail_503
+- _GameBundles/android/gameres/lzma/model/model5130_mat
+- _GameBundles/android/gameres/lzma/model/animator5130

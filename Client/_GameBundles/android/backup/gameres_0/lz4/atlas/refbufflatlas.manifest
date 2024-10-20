@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2827990762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c16c75f5d03d44596f7427b6f26279a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abf4678197d7834850e1d8386c0cfca4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/RefBufflAtlas.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/buffatlas1

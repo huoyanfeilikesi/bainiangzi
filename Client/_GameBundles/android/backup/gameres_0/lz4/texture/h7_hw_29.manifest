@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3180798884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6be25811a61bdd56101077ee8e135ea8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_hw_29.png
+Dependencies: []

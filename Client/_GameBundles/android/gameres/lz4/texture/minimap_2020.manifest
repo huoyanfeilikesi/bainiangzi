@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2136391930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28dee1b3b0d5502bb4c5cf1ccc8c54d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Minimap/minimap_2020.jpg
+Dependencies: []

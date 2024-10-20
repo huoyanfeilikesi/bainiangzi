@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2455604584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a9a5a96d33e1716439e0d8505df090e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c08275c813a4630703081edab8d6bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Material/effect_Fresnel_red.mat
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

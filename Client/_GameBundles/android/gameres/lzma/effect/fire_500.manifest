@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2447850601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10f6a384b7ae07e85b3e36c05829bc24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fire_500.tga
+Dependencies: []

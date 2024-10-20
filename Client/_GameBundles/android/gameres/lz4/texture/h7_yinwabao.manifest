@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2196713410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b5759a5d1dde4ee9444f320ac404459
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Treasure/h7_yinwabao.png
+Dependencies: []

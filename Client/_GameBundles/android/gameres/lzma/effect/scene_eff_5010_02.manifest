@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 853917855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13ca6072412f2af20500eb2bd9740a3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_5010/Textures/scene_eff_5010_02.tga
+Dependencies: []

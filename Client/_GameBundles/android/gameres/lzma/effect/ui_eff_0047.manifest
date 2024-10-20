@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3686060001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6e7a7d19c8d874682050e583bd4b936
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad859df731224bed0b7f9dc9b2a2cccf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0047/Prefabs/ui_eff_0047.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/ring_065
+- _GameBundles/android/gameres/lzma/effect/particles_028
+- _GameBundles/android/gameres/lzma/effect/trail_041
+- _GameBundles/android/gameres/lzma/effect/ring_087
+- _GameBundles/android/gameres/lzma/effect/trail_073
+- _GameBundles/android/gameres/lzma/effect/particles_550

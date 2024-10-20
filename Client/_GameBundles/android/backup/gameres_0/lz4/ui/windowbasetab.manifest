@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2413639816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a573cdd221ff4e0e74fc591d94c5771
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f93de21bbe079e9e870d3e35f0ec3e0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 446d504799d99174383957fca80713c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/_Common/WindowBaseTab.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refbagatlas
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- _GameBundles/android/gameres/lz4/atlas/refcommonbgatlas

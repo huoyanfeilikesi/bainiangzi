@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 193242761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 654919ef88d328bda150caf866a722ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ReplaceTex/h7_bao_di_ReplaceTex.png
+Dependencies: []

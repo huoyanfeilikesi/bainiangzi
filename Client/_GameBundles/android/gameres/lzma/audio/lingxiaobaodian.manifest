@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2139231156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7fb7945fa4e16cb88dc9ea2d1acaf0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/lingxiaobaodian.mp3
+Dependencies: []

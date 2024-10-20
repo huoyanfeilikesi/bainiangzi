@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2436561630
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 695ee56a13588949bd085c3fb40c61df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 15b1a42010451ed151c53a63c71418aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_142_hit/Prefabs/skill_eff_142_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/gradient_502
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/noise_502
+- _GameBundles/android/gameres/lzma/effect/word_001
+- _GameBundles/android/gameres/lzma/effect/word_007
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/object_018
+- _GameBundles/android/gameres/lzma/effect/other_505
+- _GameBundles/android/gameres/lzma/effect/object_447
+- _GameBundles/android/gameres/lzma/effect/ring_506
+- _GameBundles/android/gameres/lzma/effect/noise_503
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/gradient_304_c
+- _GameBundles/android/gameres/lzma/effect/trail_515
+- _GameBundles/android/gameres/lzma/effect/ring_117
+- _GameBundles/android/gameres/lzma/effect/glow_100
+- _GameBundles/android/gameres/lzma/effect/dilie_100
+- _GameBundles/android/gameres/lzma/effect/object_421
+- _GameBundles/android/gameres/lzma/effect/skill_eff_142_att

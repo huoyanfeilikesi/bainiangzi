@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2210953958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bbd67b4de4b93cd6519e319d54d6d68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea281c101953660d4c9457f35a2f304d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Misc/Warrior.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/texture/footshadow

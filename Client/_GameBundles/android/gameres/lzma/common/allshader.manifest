@@ -1,0 +1,145 @@
+ManifestFileVersion: 0
+CRC: 2322497470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82314f7357be70b16944072f57c39485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80729077cb39806c86b5c10073f074fb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Gshader/G_dissolveRim_blend.shader
+- Assets/Shaders/Gshader/G_rim_GradientMask.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Masked 1.shader
+- Assets/Shaders/Yshader/Y_wuqi.shader
+- Assets/Shaders/Yshader/cgwell_dissolution_blend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Text 2.shader
+- Assets/Shaders/Hshader/H_SubDissolve_Par_edge_Blend.shader
+- Assets/Shaders/Yshader/skill_eff_142_AP.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Masked 2.shader
+- Assets/Shaders/Gshader/G_rongjie_add.shader
+- Assets/Shaders/BaoyuShader/Trail Additive TurbulenceAlpha.shader
+- Assets/Shaders/H2shader/H_Fresnel_Ble.shader
+- Assets/Shaders/Gshader/G_dissolve_rimblend_db.shader
+- Assets/Shaders/DragonEffect/Shaders/effect_distortadd.shader
+- Assets/Shaders/Hshader/H_Mask_Blend.shader
+- Assets/Shaders/Gshader/G_rongjie_add2.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Text 1.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored (TextureClip).shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored (Packed)
+  (TextureClip).shader
+- Assets/Shaders/BaoyuShader/Alpha Blended Turbulence.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 2.shader
+- Assets/Shaders/Gshader/G_dissolve_blend2.shader
+- Assets/Shaders/H2shader/H_SubDissolve_Par_add.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 3.shader
+- Assets/Shaders/Gshader/G_dissolve_distort_add.shader
+- Assets/Shaders/Gshader/G_Wing_blend.shader
+- Assets/Shaders/BaoyuShader/Baoyu-Unlit-ModelHue.shader
+- Assets/Shaders/Yshader/skill_eff_129_att_shuangmian.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha (TextureClip).shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha 1.shader
+- Assets/Shaders/Gshader/G_dissolveRim_blend2.shader
+- Assets/Shaders/Hshader/H_liuguang_blend02.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored (TextureClip).shader
+- Assets/Shaders/Yshader/skill_eff_142_hit.shader
+- Assets/Shaders/Hshader/H_raodong_Add.shader
+- Assets/Shaders/Gshader/G_dissolve_distort_blend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored (TextureClip)
+  2.shader
+- Assets/Shaders/Gshader/G_Cloud.shader
+- Assets/Shaders/Yshader/skill_eff_141_hit.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Masked 3.shader
+- Assets/Shaders/Gshader/G_Spread_Blend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 1.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored 3.shader
+- Assets/GameRes/Model/Character/5143/Materials/5143.shader
+- Assets/Shaders/BaoyuShader/Baoyu-UI-Particle-Additive-Turbulence-mask.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 2.shader
+- Assets/Shaders/Hshader/H_Par_liuguang_Ble.shader
+- Assets/Shaders/Gshader/G_GradientMask_add.shader
+- Assets/Shaders/Hshader/H_liuguang_ADD04.shader
+- Assets/Shaders/Hshader/H_Par_liuguang_Add.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Text 3.shader
+- Assets/Shaders/BaoyuShader/Additive Turbulence_singleface.shader
+- Assets/Shaders/Gshader/G_GradientMask_diss_blend.shader
+- Assets/Shaders/H2shader/H_Fresnel_ADD.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 2.shader
+- Assets/Shaders/H2shader/H_Spread_Add.shader
+- Assets/Shaders/H2shader/H_Disturbance_add.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 1.shader
+- Assets/Shaders/Gshader/blendui.shader
+- Assets/Shaders/Yshader/qiu.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored 1.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Premultiplied Colored.shader
+- Assets/Shaders/Hshader/Depth Mask Complex.shader
+- Assets/Shaders/Hshader/H_Clock_add.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Colored.shader
+- Assets/Shaders/H2shader/H_liuguang_A_Add.shader
+- Assets/Shaders/BaoyuShader/Baoyu-Unlit-Model-Transparent.shader
+- Assets/Shaders/Yshader/skill_eff_129_att_1.shader
+- Assets/Shaders/DragonEffect/Shaders/GlowAdditiveSimple.shader
+- Assets/Shaders/BaoyuShader/Baoyu-UI-Particle-Additive-Turbulence.shader
+- Assets/Shaders/Gshader/G_distort_add_ScreenUV.shader
+- Assets/Shaders/BaoyuShader/FXMaker_Mask Alpha Blended Tint.shader
+- Assets/Shaders/BaoyuShader/Baoyu-UI-Particle-AlphaBlend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Text.shader
+- Assets/Shaders/Yshader/Y_ap_raodong.shader
+- Assets/Shaders/DragonEffect/Shaders/Particle Add noztest.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed.shader
+- Assets/Shaders/BaoyuShader/FXMaker_Mask Additive Tint.shader
+- Assets/Shaders/H2shader/H_SubDissolve_Par_Blend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Packed 3.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha (TextureClip)
+  2.shader
+- Assets/Shaders/H2shader/H_Clock_add.shader
+- Assets/GameRes/Effect/Magic/Skill_eff_155_att/Materials/Skill_eff_155_att.shader
+- Assets/Shaders/Gshader/G_dissolve_blend4.shader
+- Assets/Shaders/BaoyuShader/Trail Additive Turbulence.shader
+- Assets/Shaders/Gshader/G_dissolve_blend.shader
+- Assets/Shaders/Gshader/G_GradientMask_blend.shader
+- Assets/Shaders/DragonEffect/Shaders/Particle Alpha Blend.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha 3.shader
+- Assets/Shaders/Yshader/buff_eff_10003_foot.shader
+- Assets/Shaders/Hshader/H_raodong_Blend.shader
+- Assets/Shaders/BaoyuShader/Baoyu-Unlit-Transparent.shader
+- Assets/Shaders/Hshader/H_Disturbance_add.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent Masked.shader
+- Assets/Shaders/Game/TextureCover.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha 2.shader
+- Assets/Shaders/Hshader/H_liuguang_ADD03.shader
+- Assets/Shaders/BaoyuShader/Baoyu-Unlit-Xray.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Text (TextureClip).shader
+- Assets/Shaders/Yshader/Y_ad_raodong.shader
+- Assets/Shaders/H2shader/H_Freaks_BLe02.shader
+- Assets/Shaders/BaoyuShader/Baoyu-UI-Particle-Additive.shader
+- Assets/Shaders/DragonEffect/Shaders/Particle Add.shader
+- Assets/Shaders/Gshader/G_dissolve_rimblend_db2.shader
+- Assets/Shaders/H2shader/H_liuguang_M_Add.shader
+- Assets/Shaders/Yshader/skill_eff_129_att_2.shader
+- Assets/Shaders/Game/mHoles.shader
+- Assets/Shaders/Hshader/H_SubDissolve_Par_add.shader
+- Assets/Shaders/Gshader/G_dissolve_add3.shader
+- Assets/Shaders/H2shader/H_Disturbance_Ble.shader
+- Assets/Shaders/BaoyuShader/Additive Turbulence.shader
+- Assets/Shaders/DragonEffect/Shaders/Particle Alpha Blend Lv2.shader
+- Assets/Shaders/BaoyuShader/SM_TransparentRim.shader
+- Assets/Standard Assets/NGUI/Resources/Shaders/Unlit - Transparent RGB Alpha.shader
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/gradient_502
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/noise_318
+- _GameBundles/android/gameres/lzma/effect/gradient_001
+- _GameBundles/android/gameres/lzma/effect/155
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_4_2
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_7_2
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_4_3
+- _GameBundles/android/gameres/lzma/model/weapon1320_4_mat

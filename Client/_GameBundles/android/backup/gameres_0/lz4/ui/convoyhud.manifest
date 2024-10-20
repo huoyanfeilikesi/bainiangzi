@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 288080742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9bc56946f363f9613058bf32ed94804
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f67e29632244afb7ebfaf708339595b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/ConvoyHud.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refspranimation

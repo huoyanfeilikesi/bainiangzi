@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2032630115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ba085a09a8092a0f46bf76af53f115b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de81c9b41518b9528d2cc3a8b545146c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0062/Prefabs/ui_eff_0062.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/gradient_304_1
+- _GameBundles/android/gameres/lzma/effect/trail_469
+- _GameBundles/android/gameres/lzma/effect/particles_006
+- _GameBundles/android/gameres/lzma/effect/particles_550
+- _GameBundles/android/gameres/lzma/effect/trail_400
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0062_3
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0062_1
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0062_2
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0062_4

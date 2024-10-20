@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1080767653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee87dd441b802dacef0cfbc4fa4655d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/shandian_108.png
+Dependencies: []

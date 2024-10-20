@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3336750152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cc5a511767bc145ed2eba41ea8bb9c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/sl2.ogg
+Dependencies: []

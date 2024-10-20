@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1211654469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7754e1152df16e4b2155a0c7318d5077
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a866288e9a1c7d489456da5decfed4b9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfa4a4a103e4fed43a7e9e9df4a6915c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Marry/DissolveEngageView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- _GameBundles/android/gameres/lz4/atlas/refmarryatlas
+- _GameBundles/android/gameres/lz4/atlas/refwelfareatlas
+- _GameBundles/android/gameres/lz4/font/myfont

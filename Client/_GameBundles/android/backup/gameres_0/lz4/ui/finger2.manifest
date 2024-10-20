@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3097438968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6eb7f2012c77e03a1646e936477a5995
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62e5ded0e439598086d27d58db70246f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/UIEffect/finger2.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refspranimation

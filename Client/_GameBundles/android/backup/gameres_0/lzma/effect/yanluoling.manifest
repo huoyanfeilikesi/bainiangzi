@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 899114685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b483b3a283d41de0bbabe36727211f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_116_hit/Textures/yanluoling.png
+Dependencies: []

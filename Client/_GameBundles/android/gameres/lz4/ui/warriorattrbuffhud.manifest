@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3836925400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28b79cf307f272210b78bf25a8dd3427
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ccdbdbe890e9096bd93ab8f984c21314
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/WarriorAttrBuffHud.prefab
+Dependencies: []

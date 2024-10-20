@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1546334025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ab31d8d37db22bb8966c72678200446
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/water_321.tga
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3715099258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99e74b0c6abf437c17f8fd53ce510fd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f90771a533b4587eadad2709b59051f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Misc/EffectNode.prefab
+Dependencies: []

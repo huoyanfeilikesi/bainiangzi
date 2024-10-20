@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 439576527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0dd8d02cb5c59e556917cd3fae8d993
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jdwg1.ogg
+Dependencies: []

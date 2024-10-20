@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2558560916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8786c1a4d3be427a30f2fa84ce9311c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d01860fd74eb9658bbc51af3b1dba475
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_173_hit/Prefabs/Skill_eff_173_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/trail_303
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/ring_506_blue
+- _GameBundles/android/gameres/lzma/effect/object_505_c
+- _GameBundles/android/gameres/lzma/effect/ring_519
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/effect/flash_032
+- _GameBundles/android/gameres/lzma/effect/object_506
+- _GameBundles/android/gameres/lzma/effect/trail_005
+- _GameBundles/android/gameres/lzma/effect/particles_550
+- _GameBundles/android/gameres/lzma/effect/ring_036

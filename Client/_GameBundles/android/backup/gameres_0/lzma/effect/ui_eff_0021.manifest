@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 663469454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 993c4c40b6e4390c678d302a67bb8317
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cdcb7ab556ca5d4f75b16e44a0c873f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0021/Textures/ui_eff_0021.png
+- Assets/GameRes/Effect/UI/ui_eff_0021/Prefabs/ui_eff_0021.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_021

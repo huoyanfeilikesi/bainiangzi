@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shoumeng_sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shoumengproxy/libs/shoumeng_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

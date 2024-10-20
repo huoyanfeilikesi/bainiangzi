@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3940308029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9145905014ee7081fd69dff929dc52c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66f2ad30f18f6f33233f6e9bd79b794a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0001/Prefabs/scene_eff_0001.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/glow_026
+- _GameBundles/android/gameres/lzma/effect/flash_206
+- _GameBundles/android/gameres/lzma/effect/fazhen_311
+- _GameBundles/android/gameres/lzma/effect/particles_034
+- _GameBundles/android/gameres/lzma/effect/trail_468
+- _GameBundles/android/gameres/lzma/effect/gradient_304_c
+- _GameBundles/android/gameres/lzma/effect/other_490
+- _GameBundles/android/gameres/lzma/effect/particles_013
+- _GameBundles/android/gameres/lzma/effect/ring_422
+- _GameBundles/android/gameres/lzma/effect/ring_064
+- _GameBundles/android/gameres/lzma/effect/trail_073
+- _GameBundles/android/gameres/lzma/effect/mask_332
+- _GameBundles/android/gameres/lzma/effect/ring_433_red
+- _GameBundles/android/gameres/lzma/effect/trail_320
+- _GameBundles/android/gameres/lzma/effect/word_412
+- _GameBundles/android/gameres/lzma/effect/word_433

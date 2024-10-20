@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2962457790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e03dd05955a5d6ed7c28e202593243ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Activity/h7_xingongneng_1.png
+Dependencies: []

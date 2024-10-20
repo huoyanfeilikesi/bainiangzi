@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3588847801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3302ade8c3c29812770a5b7ebc6673bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc3fc5c7950ce968b73df37daf7dc96f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_107_hit/Prefabs/Skill_eff_107_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/shandian_103_00000
+- _GameBundles/android/gameres/lzma/effect/ring_075
+- _GameBundles/android/gameres/lzma/effect/shandian_108
+- _GameBundles/android/gameres/lzma/effect/flash_006
+- _GameBundles/android/gameres/lzma/effect/ring_117
+- _GameBundles/android/gameres/lzma/effect/glow_100
+- _GameBundles/android/gameres/lzma/effect/trail_070
+- _GameBundles/android/gameres/lzma/effect/dilie_100
+- _GameBundles/android/gameres/lzma/effect/other_406
+- _GameBundles/android/gameres/lzma/effect/skill_eff_107shitou2
+- _GameBundles/android/gameres/lzma/effect/glow_004
+- _GameBundles/android/gameres/lzma/effect/gradient_205

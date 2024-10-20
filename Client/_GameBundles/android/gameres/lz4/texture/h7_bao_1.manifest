@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4112768336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98d08920aff625a62a1e5a17de5cbfeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Currency/h7_bao_1.png
+Dependencies: []

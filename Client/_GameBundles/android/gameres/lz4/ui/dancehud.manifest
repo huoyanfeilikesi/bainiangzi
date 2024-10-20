@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3199642247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 419cc3304fe529417f479601aaca7a62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c57241a544ac49c2a3290066cffd204
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9bfb5c080dac24cbbc6c9f595ed413, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/DanceHud.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refactivityatlas

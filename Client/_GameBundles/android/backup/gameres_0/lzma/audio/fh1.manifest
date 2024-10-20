@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 471976711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdd382942206b245db7d674b975b6f51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/fh1.mp3
+Dependencies: []

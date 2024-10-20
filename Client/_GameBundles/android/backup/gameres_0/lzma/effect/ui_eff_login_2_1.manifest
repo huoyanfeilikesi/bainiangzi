@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1736634209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81e913cdd8d645b40f4800d6a6e1fb56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_2/Textures/ui_eff_login_2_1.png
+Dependencies: []

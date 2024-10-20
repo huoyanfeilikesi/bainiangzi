@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 503717988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe8e660d8481110b418420b6b2c3869b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_huobanbeijing.png
+Dependencies: []

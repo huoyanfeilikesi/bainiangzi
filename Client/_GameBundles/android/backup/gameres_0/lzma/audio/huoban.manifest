@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1366635718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b5c7f014a559e6cc107bfd49e288f6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/UI/huoban.ogg
+Dependencies: []

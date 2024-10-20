@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4029607574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5829ccb5ac43f9b8d2218c460baad64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/5143/Textures/01.tga
+- Assets/GameRes/Model/Character/5143/Textures/model5143_mask.png
+- Assets/GameRes/Model/Character/5143/Materials/5143.mat
+- Assets/GameRes/Model/Character/5143/Textures/02.tga
+- Assets/GameRes/Model/Character/5143/Textures/model5143.png
+- Assets/GameRes/Model/Character/5143/Materials/model5143_mask.mat
+- Assets/GameRes/Model/Character/5143/Textures/04.tga
+- Assets/GameRes/Model/Character/5143/Materials/model5143.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_507
+- _GameBundles/android/gameres/lzma/effect/particles_004
+- _GameBundles/android/gameres/lzma/effect/noise_530

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2019977832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eaeee2c2c4fa093ae2ad337ceb79d822
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_liudaobake.png
+Dependencies: []

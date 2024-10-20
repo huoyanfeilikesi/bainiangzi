@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2364490273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e69f436bd2b642ee7206a7213eea8a8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Config/GamePlotConfig/GamePlot_28.bytes
+Dependencies: []

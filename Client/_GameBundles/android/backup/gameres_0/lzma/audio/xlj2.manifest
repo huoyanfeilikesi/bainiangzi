@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3308096205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29f0c4646a5bb99e30a1bf033b067df4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/xlj2.ogg
+Dependencies: []

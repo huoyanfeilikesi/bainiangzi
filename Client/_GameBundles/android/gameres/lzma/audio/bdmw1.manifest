@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4227479888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef05ade5df26c84f3a5f23e8744d6356
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/bdmw1.ogg
+Dependencies: []

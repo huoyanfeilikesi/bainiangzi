@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 43823077
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e98edd66aa65d64b7e749c52a6155ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b603e72661a53383676cb47164408fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/60201/Prefabs/model60201.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_202
+- _GameBundles/android/gameres/lzma/effect/object_509
+- _GameBundles/android/gameres/lzma/effect/object_301
+- _GameBundles/android/gameres/lzma/model/model60201_mat
+- _GameBundles/android/gameres/lzma/model/animator60201
+- _GameBundles/android/gameres/lzma/model/model8305_mat

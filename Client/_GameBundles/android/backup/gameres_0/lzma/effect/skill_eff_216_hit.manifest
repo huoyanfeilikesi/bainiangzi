@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3589305032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99aff29f467580e726aad53fb07dbbca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de81c9b41518b9528d2cc3a8b545146c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_216_hit/Prefabs/Skill_eff_216_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_318
+- _GameBundles/android/gameres/lzma/effect/glow_001
+- _GameBundles/android/gameres/lzma/effect/trail_001
+- _GameBundles/android/gameres/lzma/effect/trail_455
+- _GameBundles/android/gameres/lzma/effect/ring_006
+- _GameBundles/android/gameres/lzma/effect/ring_004
+- _GameBundles/android/gameres/lzma/effect/trail_470_c

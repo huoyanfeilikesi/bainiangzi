@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 263885132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aac40882e7023664769de30efd682cb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f4f7e723268b53aef2a7872d0ec23f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1320_5/Prefabs/weapon1320_5.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/smoke_513
+- _GameBundles/android/gameres/lzma/effect/smoke_511
+- _GameBundles/android/gameres/lzma/effect/object_447
+- _GameBundles/android/gameres/lzma/effect/object_511
+- _GameBundles/android/gameres/lzma/effect/gradient_509
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_5_2
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_5_3
+- _GameBundles/android/gameres/lzma/effect/weapon_eff_1320_5_1
+- _GameBundles/android/gameres/lzma/model/weapon1320_5_mat

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acfunproxy/acfunproxy.iml" filepath="$PROJECT_DIR$/acfunproxy/acfunproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cilugame-android-commons.iml" filepath="$PROJECT_DIR$/cilugame-android-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demiframe/demiframe.iml" filepath="$PROJECT_DIR$/demiframe/demiframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demiproxy/demiproxy.iml" filepath="$PROJECT_DIR$/demiproxy/demiproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huaweiproxy/huaweiproxy.iml" filepath="$PROJECT_DIR$/huaweiproxy/huaweiproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nubiyaproxy/nubiyaproxy.iml" filepath="$PROJECT_DIR$/nubiyaproxy/nubiyaproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppoproxy/oppoproxy.iml" filepath="$PROJECT_DIR$/oppoproxy/oppoproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qihooproxy/qihooproxy.iml" filepath="$PROJECT_DIR$/qihooproxy/qihooproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoumengproxy/shoumengproxy.iml" filepath="$PROJECT_DIR$/shoumengproxy/shoumengproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shunwangproxy/shunwangproxy.iml" filepath="$PROJECT_DIR$/shunwangproxy/shunwangproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucproxy/ucproxy.iml" filepath="$PROJECT_DIR$/ucproxy/ucproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vivoproxy/vivoproxy.iml" filepath="$PROJECT_DIR$/vivoproxy/vivoproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomiproxy/xiaomiproxy.iml" filepath="$PROJECT_DIR$/xiaomiproxy/xiaomiproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yeproxy/yeproxy.iml" filepath="$PROJECT_DIR$/yeproxy/yeproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yijieproxy/yijieproxy.iml" filepath="$PROJECT_DIR$/yijieproxy/yijieproxy.iml" />
+    </modules>
+  </component>
+</project>

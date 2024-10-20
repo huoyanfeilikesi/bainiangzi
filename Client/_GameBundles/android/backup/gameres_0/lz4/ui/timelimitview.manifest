@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 52210255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791fa92e4097c519403db12fc8135d16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 466a05d415b8a975c8489fb0e0c3a2eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfa4a4a103e4fed43a7e9e9df4a6915c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 446d504799d99174383957fca80713c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d44bc69c2ca5f943b845318866dc1bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bd99dcf43f97d48bb6215c70f0cd40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c20815eb3063c24290a61b7020a1836, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66ca9c6e5cbd4544ab22016a27d817a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/TimeLimit/TimeLimitView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/atlas/refcommonatlas
+- _GameBundles/android/gameres/lz4/atlas/refcommonbgatlas
+- _GameBundles/android/gameres/lz4/atlas/reffriendatlas
+- _GameBundles/android/gameres/lz4/atlas/refitematlas
+- _GameBundles/android/gameres/lz4/atlas/reforgskillatlas
+- _GameBundles/android/gameres/lz4/atlas/refredpacket
+- _GameBundles/android/gameres/lz4/atlas/refscheduleatlas
+- _GameBundles/android/gameres/lz4/atlas/refskilluiatlas
+- _GameBundles/android/gameres/lz4/atlas/reftimelimitatlas
+- _GameBundles/android/gameres/lz4/atlas/refwelfareatlas
+- _GameBundles/android/gameres/lz4/font/emoticonatlas
+- _GameBundles/android/gameres/lz4/font/myfont
+- _GameBundles/android/gameres/lz4/texture/h7_nv_3
+- _GameBundles/android/gameres/lz4/texture/h7_nv_1
+- _GameBundles/android/gameres/lz4/texture/h7_hsqf_gb
+- _GameBundles/android/gameres/lz4/texture/h7_banner_12
+- _GameBundles/android/gameres/lz4/texture/h7_lianhuan_7
+- _GameBundles/android/gameres/lz4/texture/h7_lianhuan_8
+- _GameBundles/android/gameres/lz4/texture/h7_bg_22
+- _GameBundles/android/gameres/lz4/texture/h7_fanpai_1
+- _GameBundles/android/gameres/lz4/texture/h7_fanpai_2
+- _GameBundles/android/gameres/lz4/texture/h7_fanpai_3
+- _GameBundles/android/gameres/lz4/texture/h7_banner_6
+- _GameBundles/android/gameres/lz4/texture/h7_banner_10

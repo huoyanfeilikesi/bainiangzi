@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1855833151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 583b85d4984b08e2d59b00b3e3b702c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a29556bae8533566547acd7f3071ecf0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/HudRoot.prefab
+Dependencies: []

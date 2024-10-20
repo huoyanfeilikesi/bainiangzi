@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1666895734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3af3f1d061ae68d3b21e17e38ba3d8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb5be439c2067d6b032d59c4edc43d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_136_hit/Prefabs/skill_eff_136_hit.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/fire_001
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/fazhen_312
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/ring_003
+- _GameBundles/android/gameres/lzma/effect/ring_455
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/glow_004
+- _GameBundles/android/gameres/lzma/effect/explosion_001
+- _GameBundles/android/gameres/lzma/effect/pet_2300
+- _GameBundles/android/gameres/lzma/effect/ring_008
+- _GameBundles/android/gameres/lzma/effect/trail_102_c
+- _GameBundles/android/gameres/lzma/effect/trail_006_r

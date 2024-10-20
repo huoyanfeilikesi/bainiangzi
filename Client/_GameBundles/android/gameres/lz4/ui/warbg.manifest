@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1363970963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7985b7c1a38005dffba712184d97197e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f57d39f1047adb377bda3595a858dac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/War/WarBg.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader
+- _GameBundles/android/gameres/lz4/texture/war_bg

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3356393699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37a52f6d269e00c72fea70b85fd35bbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d792f836d200398aef546d311bd6c933
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1232/Marry/Marry1232.overrideController
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/characteranim/base
+- _GameBundles/android/gameres/lzma/model/marry/base

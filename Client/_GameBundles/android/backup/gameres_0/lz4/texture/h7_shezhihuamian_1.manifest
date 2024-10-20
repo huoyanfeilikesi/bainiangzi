@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 24560945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58e33f97751dee58ef7999241fe9feec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Login/h7_shezhihuamian_1.png
+Dependencies: []

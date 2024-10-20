@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 653243790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c6a9a857b89190c1c450e29abb2c29d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/3121/Textures/model3121_weapon_mask.png
+- Assets/GameRes/Model/Character/3121/Textures/weapon3121_weapon.png
+- Assets/GameRes/Model/Character/3121/Textures/model3121.png
+- Assets/GameRes/Model/Character/3121/Materials/model3121.mat
+- Assets/GameRes/Model/Character/3121/Materials/model3121_weapon_mask.mat
+- Assets/GameRes/Model/Character/3121/Materials/model3121_mask.mat
+- Assets/GameRes/Model/Character/3121/Materials/model3121_weapon.mat
+- Assets/GameRes/Model/Character/3121/Textures/model3121_mask.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 884728166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8fa231ec5c2e50d54112b0efa7aacdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/light_507.png
+Dependencies: []

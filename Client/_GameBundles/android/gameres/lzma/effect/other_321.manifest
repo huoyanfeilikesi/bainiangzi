@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2100680796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d34802560db17addac7a34cf70d2fad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0041/Textures/other_321.png
+- Assets/GameRes/Effect/commons_new/Textures/other_321.png
+Dependencies: []

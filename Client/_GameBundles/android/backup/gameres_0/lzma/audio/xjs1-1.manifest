@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3269797210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2007d7ac679ca1ff2aa303e9b0324916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xjs1-1.mp3
+Dependencies: []

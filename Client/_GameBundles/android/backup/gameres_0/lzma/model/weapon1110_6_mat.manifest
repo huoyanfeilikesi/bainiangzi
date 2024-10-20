@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1367806153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71d47cb93c12301adc83b5c1724f6296
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1110_6/Textures/weapon1110_6.png
+- Assets/GameRes/Model/Weapon/1110_6/Materials/weapon1110_6.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

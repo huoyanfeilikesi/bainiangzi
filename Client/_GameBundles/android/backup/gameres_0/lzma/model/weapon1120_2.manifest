@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1547687593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0ffbb04d9147880704580262d71d240
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e6231f85cf76fe4604bce4db9556a8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1120_2/Prefabs/weapon1120_2.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/animator1120_1
+- _GameBundles/android/gameres/lzma/model/weapon1120_2_mat

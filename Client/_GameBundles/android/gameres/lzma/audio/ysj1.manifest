@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 718360914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58e4fe5bed27f5a4c36f65ee01d2a18b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/ysj1.ogg
+Dependencies: []

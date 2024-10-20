@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1224742451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c6cea5f5027d1a96de3a2ba1e85a84c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_you_1.png
+Dependencies: []

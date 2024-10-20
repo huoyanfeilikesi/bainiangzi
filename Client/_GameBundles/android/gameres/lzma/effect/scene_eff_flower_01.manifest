@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 220829113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8946b03fd389dd9693e01aabb66994d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_flower/Prefabs/scene_eff_flower_01.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/other_200

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 244648326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59f16c99b617811420098b88951b3d34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Guide/h7_laoren.png
+Dependencies: []

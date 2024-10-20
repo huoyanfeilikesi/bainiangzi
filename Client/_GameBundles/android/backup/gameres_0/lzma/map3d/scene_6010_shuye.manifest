@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1385717087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abf3f6bb4f6da7d34e42c8f43b4e9e61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ef6944a0b7735508fabde35bbcbb9bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6010/Prefabs/Scene_6010_shuye.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/map3d/scene_6010_shuye_tex

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1478506749
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a271197f2f44c657f928820e9b59c137
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9545649e7230bfb4b894d8c34f7fedac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8404/Prefabs/model8404.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/trail_498
+- _GameBundles/android/gameres/lzma/effect/trail_027_c
+- _GameBundles/android/gameres/lzma/effect/object_511
+- _GameBundles/android/gameres/lzma/model/model8404_mat
+- _GameBundles/android/gameres/lzma/model/animator8404

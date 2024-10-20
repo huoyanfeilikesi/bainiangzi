@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2727380322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9324c665d8ce92e37ff2295d63d1603
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jqss2.ogg
+Dependencies: []

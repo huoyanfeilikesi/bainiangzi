@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3832569168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f376dd4b3855ea50282a8a4098618a8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_212_att/Textures/eff_fight_02_qiu.png
+Dependencies: []

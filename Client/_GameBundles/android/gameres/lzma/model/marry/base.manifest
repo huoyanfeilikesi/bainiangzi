@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2995913862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77c34b77e808f69276acdd235e028698
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Template/Marry/Base/marryBaitang.anim
+- Assets/GameRes/Model/Template/Marry/Base/marryKiss.anim
+- Assets/GameRes/Model/Template/Marry/Base/marryHug.anim
+- Assets/GameRes/Model/Template/Marry/Base/MarryBase.controller
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/characteranim/base

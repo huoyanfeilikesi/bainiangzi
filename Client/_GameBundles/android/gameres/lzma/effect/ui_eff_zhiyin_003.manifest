@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 8437933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35b4056c481097514a7a6f38216e8cef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_zhiyin_001/Textures/ui_eff_zhiyin_003.png
+Dependencies: []

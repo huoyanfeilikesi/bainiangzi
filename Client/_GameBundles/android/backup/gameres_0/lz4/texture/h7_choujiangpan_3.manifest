@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3333107356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e68536ed95e2b60923c6b4b4c5ee545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Welfare/h7_choujiangpan_3.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 250947545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6ffb7226f5be61fc244c42c1cf80ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/TaskNew/h7_jing_1.png
+Dependencies: []

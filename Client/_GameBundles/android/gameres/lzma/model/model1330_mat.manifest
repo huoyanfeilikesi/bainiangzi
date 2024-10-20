@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3410765900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6dc427b3ba432f7c6ba4999cd55c9ba7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1330/Textures/mode1330.png
+- Assets/GameRes/Model/Character/1330/Materials/model1330_mask.mat
+- Assets/GameRes/Model/Character/1330/Textures/model1330_mask.tga
+- Assets/GameRes/Model/Character/1330/Materials/model1330.mat
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader

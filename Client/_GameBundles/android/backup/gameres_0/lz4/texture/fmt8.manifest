@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1059939519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 697c6b7521cf3522f4b8513216f6efa4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/fmt8.png
+Dependencies: []

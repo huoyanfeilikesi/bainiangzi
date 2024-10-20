@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1952349136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d812b89e84797045211be75f43c39508
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Pk/h7_gu.png
+Dependencies: []

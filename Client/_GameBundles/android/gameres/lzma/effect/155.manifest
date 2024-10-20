@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1068171039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b45073e2217a183959b4124eb59a18d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_155_att/Textures/155.png
+Dependencies: []

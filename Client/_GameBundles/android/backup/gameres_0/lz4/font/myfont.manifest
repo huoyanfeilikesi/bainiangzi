@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1969539430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 484be822e5e159b759cbc67de8f4a133
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d82983062e485cfc4ef5db885c1698ff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Font/MyFont/MyFont.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/font/emoticonfont
+- _GameBundles/android/gameres/lz4/font/dfpyuanw5

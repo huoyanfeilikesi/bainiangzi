@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3457485709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b448e6f0df59ed1a0d3ca568a036d6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10006_waist/Prefabs/buff_eff_10006_waist.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/other_030
+- _GameBundles/android/gameres/lzma/effect/water_003
+- _GameBundles/android/gameres/lzma/effect/smoke_411_2

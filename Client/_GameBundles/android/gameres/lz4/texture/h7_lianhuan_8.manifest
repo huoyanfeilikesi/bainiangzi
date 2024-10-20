@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 409386324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e95403d1ca2610c4f4df4cd0f8ca2ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Timelimit/h7_lianhuan_8.png
+Dependencies: []

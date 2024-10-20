@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 125250150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42a423a675e26a132c3917fc53eedf40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d792f836d200398aef546d311bd6c933
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1110_1/Anim/Animator1110_1.overrideController
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/characteranim/base

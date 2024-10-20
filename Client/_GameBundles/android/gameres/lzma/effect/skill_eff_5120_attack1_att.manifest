@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1946042101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 796fc6e0557ff0655e2d8eca55d4a470
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0667443fb14e74781beb57b5943096c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5120_attack1_att/Prefabs/skill_eff_5120_attack1_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/smoke_411_2
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/trail_111
+- _GameBundles/android/gameres/lzma/effect/trail_039
+- _GameBundles/android/gameres/lzma/effect/trail_027_c
+- _GameBundles/android/gameres/lzma/effect/object_421

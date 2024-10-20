@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3122920214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c04f9c0133eb1230aebb2dec7960fa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jhjz.ogg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1977368685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7430ceed54afb9b713f1abd78088a23c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_117_att/Textures/Skill_eff_117_att02.png
+Dependencies: []

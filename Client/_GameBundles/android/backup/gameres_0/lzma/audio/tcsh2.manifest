@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3656948023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7cc1db2c3df8baaba48d66cb3071800
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/tcsh2.ogg
+Dependencies: []

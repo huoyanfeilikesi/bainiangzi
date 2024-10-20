@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2705517500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e40fb919dfacd066827b817ec552b8f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_156_hit/Textures/noise_547.png
+Dependencies: []

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3969653491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e80b44d66e73cd5077df25dac69645a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b168121245ad6ead2464ee2161c29af0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Weapon/1110_7/Prefabs/weapon1110_7.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/flash_504
+- _GameBundles/android/gameres/lzma/effect/smoke_024
+- _GameBundles/android/gameres/lzma/effect/weapon1110_4
+- _GameBundles/android/gameres/lzma/effect/weapon1110_7
+- _GameBundles/android/gameres/lzma/effect/1110_7
+- _GameBundles/android/gameres/lzma/model/animator1110_1
+- _GameBundles/android/gameres/lzma/model/weapon1110_7_mat

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 570742823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 421f5b6d3b6b377f2320e158eb97aace
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/fire_489.tga
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3781760222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 847f51d2cf607219a6e0f875555e3173
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Template/RoleCreate/Base/rolecreate4.anim
+- Assets/GameRes/Model/Template/RoleCreate/Base/rolecreate3.anim
+- Assets/GameRes/Model/Template/RoleCreate/Base/rolecreate1.anim
+- Assets/GameRes/Model/Template/RoleCreate/Base/rolecreate2.anim
+- Assets/GameRes/Model/Template/RoleCreate/Base/RoleCreateBase.controller
+- Assets/GameRes/Model/Template/RoleCreate/Base/rolecreate5.anim
+Dependencies: []

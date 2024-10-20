@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2645412626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d932baf0f105a9082dfd664858d734d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/wjgy1.ogg
+Dependencies: []

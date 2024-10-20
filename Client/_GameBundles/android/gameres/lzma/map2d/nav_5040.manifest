@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2914080075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c28a3812bc9fe4a9430e12c8a813a6f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map2d/ConfigData/nav_5040.bytes
+Dependencies: []

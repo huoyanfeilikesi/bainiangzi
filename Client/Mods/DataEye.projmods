@@ -1,0 +1,15 @@
+{
+    "group": "DataEye",
+    "libs": ["libz.tbd"],
+    "frameworks": ["AdSupport.framework:optional"
+                    "CoreTelephony.framework",
+                    "Security.framework",
+                    "SystemConfiguration.framework"],
+    "headerpaths": [""],
+    "embed_binaries": [],
+    "files":   [],
+    "folders": ["iOS/DataEye/DataEye"],
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [],
+}

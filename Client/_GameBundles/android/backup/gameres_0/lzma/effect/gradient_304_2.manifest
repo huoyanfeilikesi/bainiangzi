@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 289025385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ea6d4f5aafdd0467cc5c20c12464e88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_login_2/Textures/Gradient_304_2.png
+Dependencies: []

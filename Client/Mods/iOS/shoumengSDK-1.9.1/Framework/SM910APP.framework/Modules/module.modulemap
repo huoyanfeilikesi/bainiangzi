@@ -1,0 +1,6 @@
+framework module SM910APP {
+  umbrella header "SM910APP.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1810656752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa5b20d2792e1b75b98f72a3b2d66ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/syfs1.ogg
+Dependencies: []

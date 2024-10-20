@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shoumeng_game_sdk_2.5.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shoumengproxy/libs/shoumeng_game_sdk_2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

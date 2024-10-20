@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3335874960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31fd3b2ef5f09e60788d374d4db6c2f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/jtbf.ogg
+Dependencies: []

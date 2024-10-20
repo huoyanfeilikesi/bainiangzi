@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3250969270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 310d2c282af8f3eff1157005cd3da56e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/water_505.png
+Dependencies: []

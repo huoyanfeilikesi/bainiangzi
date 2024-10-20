@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4129330801
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8568b861544b78ef9d9d105044ba1e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_5130_attack1_att/Prefabs/skill_eff_5130_attack1_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/gradient_304_c
+- _GameBundles/android/gameres/lzma/effect/trail_005
+- _GameBundles/android/gameres/lzma/effect/trail_401
+- _GameBundles/android/gameres/lzma/effect/glow_025

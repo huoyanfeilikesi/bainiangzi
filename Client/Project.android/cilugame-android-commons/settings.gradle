@@ -1,0 +1,1 @@
+include ':app', ':demiframe', ':ucproxy', ':demiproxy', ':yijieproxy', ':shoumengproxy', ':qihooproxy', ':shunwangproxy', ':nubiyaproxy', ':yeproxy', ":xiaomiproxy", ":vivoproxy", ":oppoproxy", ":huaweiproxy", ":acfunproxy"

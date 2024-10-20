@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2959762042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87bdd79ccc1039cad4b69b8952ad39b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Jjc/h7_shibai_4.png
+Dependencies: []

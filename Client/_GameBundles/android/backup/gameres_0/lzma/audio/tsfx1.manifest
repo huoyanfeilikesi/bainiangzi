@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3970355189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fc06e33d736c3b8c45d0dd226b8fe4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/tsfx1.ogg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2784928811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b365780b69eb97d05e6e0e3057c04b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Rank/h7_no2.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 702817581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f449153536e3a27a7583cc30e2f441b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/weapon/weapon_eff_1110_6/Textures/1110_6.png
+Dependencies: []

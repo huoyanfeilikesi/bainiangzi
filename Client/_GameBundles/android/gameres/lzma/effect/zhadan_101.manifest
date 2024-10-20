@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1563184439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ea93c529e99ef73925761c652cdd168
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/zhadan_101.png
+Dependencies: []

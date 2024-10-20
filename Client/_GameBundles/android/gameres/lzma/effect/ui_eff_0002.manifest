@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1555412079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e04d8acae144f7b864f1663affdc80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0002/Prefabs/ui_eff_0002.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/gradient_304_1
+- _GameBundles/android/gameres/lzma/effect/gradient_205
+- _GameBundles/android/gameres/lzma/effect/baidi_1

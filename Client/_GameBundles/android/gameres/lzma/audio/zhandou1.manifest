@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1217799447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb36d92e32a48bd435c37c4c553dca40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Music/zhandou1.mp3
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 535935331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c589b343bf3b0d0b9f50176cf2be093b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72c672a573805b082a1a1eda500886ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_5010/Prefabs/scene_eff_5010_06.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/water_003

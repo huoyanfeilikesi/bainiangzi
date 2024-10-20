@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1382788905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f3fc19315a1b4d7d9fc9ee8b2b6f3a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Login/h7_name_2.png
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 170519865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a710cd437e4fcf5580ddaa0f17b2529
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38eb66b7f0340a3eb33f5818eacdb745
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8219/Prefabs/model8219.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/model/model8219_mat
+- _GameBundles/android/gameres/lzma/model/animator8219

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1097312224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e57600c3efd6f6b178b5490d1b664d67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe71fd59a2f580db21db39479c20d3e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbb4464b9a6ccbe4abcd5cd898113e22, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_122_att/Prefabs/Skill_eff_122_hit02.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/trail_203
+- _GameBundles/android/gameres/lzma/effect/other_101
+- _GameBundles/android/gameres/lzma/effect/trail_503_red
+- _GameBundles/android/gameres/lzma/effect/glow_006
+- _GameBundles/android/gameres/lzma/effect/flash_507
+- _GameBundles/android/gameres/lzma/effect/skill_eff_117_att
+- _GameBundles/android/gameres/lzma/effect/skill_eff_117_att02

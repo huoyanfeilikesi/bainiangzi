@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1312198377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85c221b3e0bbdb8048c9ab73ec3ac6e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Zhenmo/h7_zmtbgt_01.png
+Dependencies: []

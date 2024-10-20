@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1526027277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4dda52f1e3dbee789987a4335a2b7f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ac1254a48f24a20fe5d813648ed56aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_6106_attack1_att/Prefabs/skill_eff_6106_attack1_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/smoke_201
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/smoke_009
+- _GameBundles/android/gameres/lzma/effect/object_500

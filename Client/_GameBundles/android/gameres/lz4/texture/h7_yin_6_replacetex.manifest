@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2438713699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40f171f53d0b495bcf31b6280fa29453
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/ReplaceTex/h7_yin_6_ReplaceTex.png
+Dependencies: []

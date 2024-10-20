@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 704966864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27c57b123d47553ff6abe81ed2b58e49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_3050/Textures/scene_eff_3050_mask01.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3218180021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b922cc0700373e8980209283db3409a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_kejuhuodong.png
+Dependencies: []

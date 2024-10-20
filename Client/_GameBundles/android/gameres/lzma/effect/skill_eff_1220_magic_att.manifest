@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1121283214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e42e51367a1e11e9368fe4cfdfa4085
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0667443fb14e74781beb57b5943096c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_1220_magic_att/Prefabs/skill_eff_1220_magic_att.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_317
+- _GameBundles/android/gameres/lzma/effect/trail_513
+- _GameBundles/android/gameres/lzma/effect/trail_511
+- _GameBundles/android/gameres/lzma/effect/object_007
+- _GameBundles/android/gameres/lzma/effect/trail_512

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3439133240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17554d5c2cdc411edfbd5ee51692b81d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac705382fec8a33e13008b1f53dc045f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0a98cf7bddf1c144bab4d8660db1799, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0085/Prefabs/ui_eff_0085.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/flash_003
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/flash_204
+- _GameBundles/android/gameres/lzma/effect/flash_206
+- _GameBundles/android/gameres/lzma/effect/glow_500
+- _GameBundles/android/gameres/lzma/effect/noise_433_1
+- _GameBundles/android/gameres/lzma/effect/gradient_510
+- _GameBundles/android/gameres/lzma/effect/other_203
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0085_mask

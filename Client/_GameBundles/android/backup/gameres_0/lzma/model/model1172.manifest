@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2593866252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7fd29d4744e9b20352411070ab15606
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 864def0875da1ff7f5ccd697a34053b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e05be22309f5b148810d0ad12512f9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/1172/Prefabs/model1172.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/model1172_mat
+- _GameBundles/android/gameres/lzma/model/animator1172

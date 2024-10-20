@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1762789682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 801003cb62cac03b11f055612f1c7e8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/dhty2.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1743220733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec63fdfbc5407dfa448623335f3d1ae3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_fkfp.png
+Dependencies: []

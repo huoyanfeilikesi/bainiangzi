@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1118027132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b1d4523a400f091b7ac7d375dac7885
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/ycx2.mp3
+Dependencies: []

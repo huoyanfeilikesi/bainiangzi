@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1459053785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 092e177b445bfa0f53c223b0c39784e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47cae4798395ed933d83121ba3aef869
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a564df9d79393a43b92be5fae2cd074, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_111_full/Prefabs/skill_eff_111_full_zong.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/trail_303
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/smoke_411_2
+- _GameBundles/android/gameres/lzma/effect/gradient_204_c
+- _GameBundles/android/gameres/lzma/effect/glow_021
+- _GameBundles/android/gameres/lzma/effect/gradient_304_c
+- _GameBundles/android/gameres/lzma/effect/glow_004
+- _GameBundles/android/gameres/lzma/effect/gradient_205
+- _GameBundles/android/gameres/lzma/effect/explosion_001
+- _GameBundles/android/gameres/lzma/effect/object_421
+- _GameBundles/android/gameres/lzma/effect/other_323
+- _GameBundles/android/gameres/lzma/effect/skill_eff_107_hit_1
+- _GameBundles/android/gameres/lzma/effect/flash_017
+- _GameBundles/android/gameres/lzma/effect/other_407

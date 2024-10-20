@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1115766942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b98f369dd2e5a77b80996d0e22769ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6011/Textures/sky.png
+- Assets/GameRes/Map3d/6011/Textures/wu.png
+- Assets/GameRes/Map3d/6011/Textures/zhongjing.png
+- Assets/GameRes/Map3d/6011/Textures/shanshi.png
+- Assets/GameRes/Map3d/6011/Textures/shuidi.png
+- Assets/GameRes/Map3d/6011/Textures/taizi.png
+- Assets/GameRes/Map3d/6011/Textures/shui.tga
+- Assets/GameRes/Map3d/6011/Textures/wu1.png
+- Assets/GameRes/Map3d/6011/Textures/pubu.png
+- Assets/GameRes/Map3d/6011/Textures/yun.png
+Dependencies: []

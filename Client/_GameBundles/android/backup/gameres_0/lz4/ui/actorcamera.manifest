@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2146423944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d86651798fa6378f2babb37955b4a40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b0d7d305227182feebc83d43f8168cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Misc/ActorCamera.prefab
+Dependencies: []

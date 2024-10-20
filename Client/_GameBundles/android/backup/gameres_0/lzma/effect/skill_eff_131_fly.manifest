@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2289969773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b53028261602b163f243c20a15db55fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d04bdc76d67eea46507fe777f0288276
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99f13d3568cc31048bc515c0b7653d9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/skill_eff_131_fly/Prefabs/skill_eff_131_fly.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_002
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/trail_303
+- _GameBundles/android/gameres/lzma/effect/fire_001
+- _GameBundles/android/gameres/lzma/effect/noise_500
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/other_490
+- _GameBundles/android/gameres/lzma/effect/trail_0071
+- _GameBundles/android/gameres/lzma/effect/object_002

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4278821745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d4a74ce8e0dd9eba87f68200d45bb2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6011/Textures/shu.png
+Dependencies: []

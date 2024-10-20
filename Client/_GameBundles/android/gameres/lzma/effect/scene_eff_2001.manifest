@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2444669261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f79658a2c8dc6a328e2a08ff19dd0022
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfb3f162c870adb6239f64e1265718f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3aaae17c17770064eb01832e7331074d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_2001/Prefabs/scene_eff_2001.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_201
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_008
+- _GameBundles/android/gameres/lzma/effect/glow_026
+- _GameBundles/android/gameres/lzma/effect/trail_468
+- _GameBundles/android/gameres/lzma/effect/particles_040
+- _GameBundles/android/gameres/lzma/effect/flash_005
+- _GameBundles/android/gameres/lzma/effect/trail_073
+- _GameBundles/android/gameres/lzma/effect/explosion_204
+- _GameBundles/android/gameres/lzma/effect/object_016
+- _GameBundles/android/gameres/lzma/effect/flash_488
+- _GameBundles/android/gameres/lzma/effect/trail_042

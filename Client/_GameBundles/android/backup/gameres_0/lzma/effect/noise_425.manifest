@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3463720101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a6f982084767814ca9b6ff5bbc552fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_0020/Textures/noise_425.png
+Dependencies: []

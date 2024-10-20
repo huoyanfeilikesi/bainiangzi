@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2170841014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7347cc5380a7ebe29592ddd1dbd664d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2896e09ed1c1fdff7cacb0e32f001f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Shenqi/8306/Prefabs/model8306.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/trail_498
+- _GameBundles/android/gameres/lzma/effect/trail_027_c
+- _GameBundles/android/gameres/lzma/model/model8306_mat
+- _GameBundles/android/gameres/lzma/model/animator8306

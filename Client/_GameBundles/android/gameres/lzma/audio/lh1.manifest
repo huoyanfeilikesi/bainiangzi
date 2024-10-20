@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 134386970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a83b45917ea245b7060da83cdbbaf5e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/lh1.ogg
+Dependencies: []

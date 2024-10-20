@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1858121943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51773fdb90d515d1a0b45af077235783
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/fqz1.mp3
+Dependencies: []

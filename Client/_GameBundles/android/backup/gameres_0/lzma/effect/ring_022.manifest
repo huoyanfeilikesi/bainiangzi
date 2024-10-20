@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 361392830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54fa1b3b379acc5bd6b0105037c80106
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/ring_022.png
+Dependencies: []

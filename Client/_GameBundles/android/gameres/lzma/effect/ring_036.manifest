@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 698676664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2e20acf4ae9012780732e03a1af8d70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_173_hit/Textures/ring_036.png
+Dependencies: []

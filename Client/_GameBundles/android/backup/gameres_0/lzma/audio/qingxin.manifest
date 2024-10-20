@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3568355920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38a11e0312b10d6e15111cfcbc6fd27d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/qingxin.ogg
+Dependencies: []

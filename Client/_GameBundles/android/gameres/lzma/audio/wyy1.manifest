@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2681665021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa12c6765fd8866d69a23323c8c338b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/wyy1.mp3
+Dependencies: []

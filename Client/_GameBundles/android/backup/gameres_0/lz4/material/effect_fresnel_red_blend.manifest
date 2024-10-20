@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2785427424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df2538099c7d5dda0c012b7eeb72d225
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c08275c813a4630703081edab8d6bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Material/effect_Fresnel_red_blend.mat
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

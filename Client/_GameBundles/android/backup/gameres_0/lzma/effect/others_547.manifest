@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4276529844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7985c04a6974f99c800f3aa415a85715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons/Textures/others_547.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 471294926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89a4e2ea938d4eb4a89af5306ff67ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/ffwb1.ogg
+Dependencies: []

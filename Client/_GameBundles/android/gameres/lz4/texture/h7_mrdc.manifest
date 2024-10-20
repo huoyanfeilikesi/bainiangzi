@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2803985616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86d295627e7c4a6395575b4aeebf9ed8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/HotTopic/h7_mrdc.png
+Dependencies: []

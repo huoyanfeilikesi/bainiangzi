@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1907033806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d662a64489f42649b617f053ce434c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cfb5be798162120cd75c190925e62679
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/5145/Prefabs/model5145.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/glow_013
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/noise_306
+- _GameBundles/android/gameres/lzma/effect/flash_032
+- _GameBundles/android/gameres/lzma/effect/object_007
+- _GameBundles/android/gameres/lzma/model/model5145_mat
+- _GameBundles/android/gameres/lzma/model/animator5145

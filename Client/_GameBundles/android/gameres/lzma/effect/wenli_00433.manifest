@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 120502483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e2663ad0359b3f874ddf01ac52b9b8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/commons_new/Textures/wenli_00433.png
+Dependencies: []

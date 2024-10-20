@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 244518468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa11662b140155c015319c0ae37460ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0565bcd363ee5f0296a1e5caf2afe395
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Atlas/StaticAtlas/LoginAtlas/LoginAtlas_Alpha_x2.png
+- Assets/GameRes/Atlas/StaticAtlas/LoginAtlas/LoginAtlas.png
+- Assets/GameRes/Atlas/RefLoginAtlas.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

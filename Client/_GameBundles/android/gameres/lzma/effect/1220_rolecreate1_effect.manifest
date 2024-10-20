@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3744720374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7d23436dcc9af5ab65fc74ffe947a51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0016118e4d74d8605dc93fa48c321934
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 543e5037126a1114387f4f7232293ae8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Character/1220_rolecreate1_effect/Prefabs/1220_rolecreate1_effect.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/glow_002
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/gradient_503
+- _GameBundles/android/gameres/lzma/effect/object_018
+- _GameBundles/android/gameres/lzma/effect/other_505
+- _GameBundles/android/gameres/lzma/effect/particles_034
+- _GameBundles/android/gameres/lzma/effect/trail_039
+- _GameBundles/android/gameres/lzma/effect/trail_327
+- _GameBundles/android/gameres/lzma/effect/trail_513
+- _GameBundles/android/gameres/lzma/effect/other_200

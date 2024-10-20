@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 120895006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aafd49354126aa7be4c65bd52f51d231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/RedPacket/h7_fahongbao.png
+- Assets/GameRes/TextureSpecial/h7_fahongbao.png
+Dependencies: []

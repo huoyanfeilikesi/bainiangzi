@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3294079858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c998ee694de2987b4e970709eade23e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0049/Prefabs/ui_eff_0049.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/object_007
+- _GameBundles/android/gameres/lzma/effect/other_207
+- _GameBundles/android/gameres/lzma/effect/ui_eff_0049_1
+- _GameBundles/android/gameres/lzma/effect/_ui_eff_0049_3

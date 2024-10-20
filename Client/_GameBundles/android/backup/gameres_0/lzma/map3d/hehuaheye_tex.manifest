@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4151613284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65afa14e6c68fc12c3f212175d9f0ddf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Map3d/6011/Textures/hehua.png
+Dependencies: []

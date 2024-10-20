@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 739568694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2681a8fe6eb3f0f22448bc53345a578
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Schedule/h7_jiuzhou.png
+Dependencies: []

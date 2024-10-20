@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 573434197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b67bb10d7fbd8e8670b18ea6af8f4bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Common/h7_bg_8.png
+Dependencies: []

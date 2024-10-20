@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1871613387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d65c07d2a8fb2538e7734b768f19b75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d01860fd74eb9658bbc51af3b1dba475
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10027_foot/Prefabs/buff_eff_10027_foot.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/particles_001
+- _GameBundles/android/gameres/lzma/effect/ring_201
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/glow_014
+- _GameBundles/android/gameres/lzma/effect/ring_092
+- _GameBundles/android/gameres/lzma/effect/ring_022
+- _GameBundles/android/gameres/lzma/effect/fazhen_100
+- _GameBundles/android/gameres/lzma/effect/fazhen_311

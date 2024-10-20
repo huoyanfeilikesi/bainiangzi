@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3298459365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4cf801c7ef9c1494712ad7eaca78e07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Examination/h7_kejudati_01.png
+Dependencies: []

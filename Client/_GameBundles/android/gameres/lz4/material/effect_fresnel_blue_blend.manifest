@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 798564339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8a3b30f654ca8a60a843ecb60fdfe7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c08275c813a4630703081edab8d6bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Material/effect_Fresnel_Blue_blend.mat
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

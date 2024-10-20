@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2507991804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 372db687e44f59dc93b32f4675e4cdcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1160c6fec23ababf87d91e7d6739d58f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/WarriorTouchHud.prefab
+Dependencies: []

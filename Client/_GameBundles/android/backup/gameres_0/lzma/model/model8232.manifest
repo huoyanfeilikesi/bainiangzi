@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2930635158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e982ffeb25da74db65e11d54aa5cb270
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b22fb886a18bcdf06490dae72aace15a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/8232/Prefabs/model8232.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/model/model8232_mat
+- _GameBundles/android/gameres/lzma/model/animator8232

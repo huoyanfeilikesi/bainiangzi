@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 176946120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b608209552d5cea94b437436e9395348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6338f87620676b755272fc2c3d63058
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/War/WarBgSky.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

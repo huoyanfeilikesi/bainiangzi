@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 112376788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6370aaa70bb6bcbbe6e2cd346ef53f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/UI/ui_eff_0084/Textures/ui_eff_0084_mask.png
+Dependencies: []

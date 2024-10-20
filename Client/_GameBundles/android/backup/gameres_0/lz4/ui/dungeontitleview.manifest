@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1256059381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eed5d1250e5ee767bdfc8f0979ecab21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fed3d5457b5b079ff06a7e381c490e67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2747e3775af504da1a4d5a46c5a1ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Dungeon/DungeonTitleView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/atlas/refdungeonatlas

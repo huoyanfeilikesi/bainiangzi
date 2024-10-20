@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3584724100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7a507ed54de0dc48b80abc2b51e39e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf0fa9b7e8aba4bf8cbd7fbec4d0f6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Scene/scene_eff_5010/Prefabs/scene_eff_5010_08.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/glow_007
+- _GameBundles/android/gameres/lzma/effect/particles_005
+- _GameBundles/android/gameres/lzma/effect/fire_005

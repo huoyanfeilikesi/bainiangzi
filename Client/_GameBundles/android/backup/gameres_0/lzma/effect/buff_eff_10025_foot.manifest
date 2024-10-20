@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2510202841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57e920f5b6597a28f773624c746557d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1094c96f9226a7a7878c4d498a1829fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f34306fbdde5f4584e7c0292ab76d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Buff/buff_eff_10025_foot/Prefabs/buff_eff_10025_foot.prefab
+Dependencies:
+- _GameBundles/android/gameres/lzma/effect/noise_003
+- _GameBundles/android/gameres/lzma/common/allshader
+- _GameBundles/android/gameres/lzma/effect/noise_001
+- _GameBundles/android/gameres/lzma/effect/noise_201
+- _GameBundles/android/gameres/lzma/effect/noise_202
+- _GameBundles/android/gameres/lzma/effect/gradient_002
+- _GameBundles/android/gameres/lzma/effect/wave01_blue
+- _GameBundles/android/gameres/lzma/effect/noise_006
+- _GameBundles/android/gameres/lzma/effect/noise_206
+- _GameBundles/android/gameres/lzma/effect/noise_005
+- _GameBundles/android/gameres/lzma/effect/fazhen_312
+- _GameBundles/android/gameres/lzma/effect/fazhen_313
+- _GameBundles/android/gameres/lzma/effect/ring_003
+- _GameBundles/android/gameres/lzma/effect/ring_455
+- _GameBundles/android/gameres/lzma/effect/other_219
+- _GameBundles/android/gameres/lzma/effect/white_mask

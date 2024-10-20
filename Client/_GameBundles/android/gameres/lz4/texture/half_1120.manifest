@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1642137920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82d8586d27cf0e2308dc1e75fd79105c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Photo/half_1120.png
+Dependencies: []

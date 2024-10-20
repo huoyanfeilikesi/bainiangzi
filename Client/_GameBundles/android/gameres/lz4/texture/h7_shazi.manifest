@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 49449698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 558e9aa32fa4077f928919ec0d98ad73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Misc/h7_shazi.png
+Dependencies: []

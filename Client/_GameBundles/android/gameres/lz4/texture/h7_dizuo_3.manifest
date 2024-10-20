@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2932917332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47d637d26ad737c30cf167212f8e07d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/FuncNotify/h7_dizuo_3.png
+Dependencies: []

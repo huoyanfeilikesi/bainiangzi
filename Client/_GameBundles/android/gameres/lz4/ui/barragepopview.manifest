@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3990600557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a91f13a1f7310bc70e2e9c0315f399d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6467ba1b31bcfbcf4691ba84a8a6c5a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Barrage/BarragePopView.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/font/myfont

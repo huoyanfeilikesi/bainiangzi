@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1660429685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8c23052af00b35199325554ec372fcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/Magic/Skill_eff_205_hit/Textures/Skill_eff_205_hit_01.tga
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3624125885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c968c9349aec7af35fa155e7d5a674ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/dao.ogg
+Dependencies: []

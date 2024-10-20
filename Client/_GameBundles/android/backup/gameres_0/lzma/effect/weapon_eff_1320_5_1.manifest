@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 23280388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8900bb6ed79d360918f8597afe5afca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Effect/weapon/weapon_eff_1320_5/Textures/weapon_eff_1320_5_1.png
+Dependencies: []

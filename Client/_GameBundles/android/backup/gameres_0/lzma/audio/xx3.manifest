@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1759645777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3dc1b32ceb7782f9299bb0917105b66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/xx3.mp3
+Dependencies: []

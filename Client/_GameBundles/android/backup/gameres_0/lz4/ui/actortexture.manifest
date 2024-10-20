@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1419743480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a317fda5b1a5ef702bcd41915c42f3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17af675f5a82cdee1205e8e35b2dd864
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 559f26b2d8525c04db625d240c6473e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/_Common/ActorTexture.prefab
+Dependencies:
+- _GameBundles/android/gameres/lz4/common/allshader

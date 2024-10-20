@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3064191527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92ca7ae4770af210f04b52b38f382741
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a6baf32c63c823858a0060ceb8e927
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e106b840fc2b3cf4ea05f1d03a5fa212, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4e592b15e7ce5489c098d105388b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66ca9c6e5cbd4544ab22016a27d817a4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/UI/Hud/HudNode.prefab
+Dependencies: []

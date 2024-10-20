@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3709969121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a59be496b74ee24a6734e5d4d28cce52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/Org/h7_xiangfang_1.png
+Dependencies: []

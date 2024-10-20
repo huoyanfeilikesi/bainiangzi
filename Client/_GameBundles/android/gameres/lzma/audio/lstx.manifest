@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3392895363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ade868e379ada7b5c1633c0be545908
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/War/lstx.ogg
+Dependencies: []

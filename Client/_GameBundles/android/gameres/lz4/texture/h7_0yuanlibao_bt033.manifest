@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 513451995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f7620a3216b04c2e6fb929988433eb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/TextureSpecial/h7_0yuanlibao_bt033.png
+Dependencies: []

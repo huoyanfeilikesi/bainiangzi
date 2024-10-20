@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1437832532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a6f0b795ba8b96ca33cfd4df0785bc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Audio/Sound/Model/qr2.mp3
+Dependencies: []

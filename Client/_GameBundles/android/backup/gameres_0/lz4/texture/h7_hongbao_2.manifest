@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3200859388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f208c3ea1d146e403b93f601f8cabc2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Texture/RedPacket/h7_hongbao_2.png
+Dependencies: []

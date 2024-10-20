@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 48826141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7ebdbe75637ad5a43551285e5fb834c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/Model/Character/3107/Materials/model3107.mat
+- Assets/GameRes/Model/Character/3107/Textures/model3107.png
+- Assets/GameRes/Model/Character/3107/Materials/model3107_mask.mat
+- Assets/GameRes/Model/Character/3107/Textures/model3107_mask.png
+Dependencies:
+- _GameBundles/android/gameres/lzma/common/allshader
