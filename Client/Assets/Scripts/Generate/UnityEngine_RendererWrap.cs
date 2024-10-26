@@ -408,7 +408,7 @@ public class UnityEngine_RendererWrap
 		{
 			o = ToLua.ToObject(L, 1);
 			UnityEngine.Renderer obj = (UnityEngine.Renderer)o;
-			bool ret = obj.motionVectors;
+			bool ret = false; // obj.motionVectors;
 			LuaDLL.lua_pushboolean(L, ret);
 			return 1;
 		}
@@ -789,7 +789,7 @@ public class UnityEngine_RendererWrap
 			o = ToLua.ToObject(L, 1);
 			UnityEngine.Renderer obj = (UnityEngine.Renderer)o;
 			bool arg0 = LuaDLL.luaL_checkboolean(L, 2);
-			obj.motionVectors = arg0;
+			// obj.motionVectors = arg0;
 			return 0;
 		}
 		catch(Exception e)

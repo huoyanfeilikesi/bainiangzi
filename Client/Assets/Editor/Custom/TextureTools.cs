@@ -16,7 +16,7 @@ public class TextureTools: AssetPostprocessor
         if (assetPath.IndexOf("Assets/GameRes/Model/Character/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.wrapMode = TextureWrapMode.Clamp;
             importer.mipmapEnabled = false;
@@ -29,7 +29,7 @@ public class TextureTools: AssetPostprocessor
         if (assetPath.IndexOf("Assets/GameRes/Atlas/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Repeat;
@@ -43,7 +43,7 @@ public class TextureTools: AssetPostprocessor
             //ConverMapTileToJPG(assetPath);
 
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Clamp;
@@ -55,7 +55,7 @@ public class TextureTools: AssetPostprocessor
         if (assetPath.IndexOf("Assets/GameRes/Map3d/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Repeat;
@@ -67,7 +67,7 @@ public class TextureTools: AssetPostprocessor
         if (assetPath.IndexOf("Assets/GameRes/Texture/Photo") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.npotScale = TextureImporterNPOTScale.None;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
@@ -81,7 +81,7 @@ public class TextureTools: AssetPostprocessor
         else if(assetPath.IndexOf("Texture/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Clamp;
@@ -94,7 +94,7 @@ public class TextureTools: AssetPostprocessor
         else if (assetPath.IndexOf("TextureSpecial/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             //importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Clamp;
@@ -107,7 +107,7 @@ public class TextureTools: AssetPostprocessor
         else if (assetPath.IndexOf("TextureUncompress/") >= 0)
         {
             TextureImporter importer = (TextureImporter)TextureImporter.GetAtPath(assetPath);
-            importer.textureType = TextureImporterType.Advanced;
+            importer.textureType = TextureImporterType.Default;
             importer.spriteImportMode = SpriteImportMode.None;
             importer.alphaIsTransparency = true;
             importer.wrapMode = TextureWrapMode.Clamp;

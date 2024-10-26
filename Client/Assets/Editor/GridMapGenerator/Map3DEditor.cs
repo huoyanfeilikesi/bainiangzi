@@ -275,13 +275,13 @@ public class Map3DEditor : EditorWindow
         List<Texture2D> farTextureList = new List<Texture2D>();
         for(int i = 0; i < LightmapSettings.lightmaps.Length; i++)
         {
-            if(LightmapSettings.lightmaps[i].lightmapNear != null)
+            if(LightmapSettings.lightmaps[i].lightmapDir != null)
             {
-                nearTextureList.Add(LightmapSettings.lightmaps[i].lightmapNear);
+                nearTextureList.Add(LightmapSettings.lightmaps[i].lightmapDir);
             }
-            if (LightmapSettings.lightmaps[i].lightmapFar != null)
+            if (LightmapSettings.lightmaps[i].lightmapLight != null)
             {
-                farTextureList.Add(LightmapSettings.lightmaps[i].lightmapFar);
+                farTextureList.Add(LightmapSettings.lightmaps[i].lightmapLight);
             }
         }
 

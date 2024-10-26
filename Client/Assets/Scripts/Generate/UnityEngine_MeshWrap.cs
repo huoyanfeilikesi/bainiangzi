@@ -349,7 +349,7 @@ public class UnityEngine_MeshWrap
 		{
 			ToLua.CheckArgsCount(L, 1);
 			UnityEngine.Mesh obj = (UnityEngine.Mesh)ToLua.CheckObject(L, 1, typeof(UnityEngine.Mesh));
-			obj.Optimize();
+			;
 			return 0;
 		}
 		catch(Exception e)

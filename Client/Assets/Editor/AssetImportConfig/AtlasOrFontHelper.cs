@@ -108,9 +108,9 @@ namespace AssetImport
                         dirty = true;
                     }
                 }
-                if (importer.textureType != TextureImporterType.Advanced)
+                if (importer.textureType != TextureImporterType.Default)
                 {
-                    importer.textureType = TextureImporterType.Advanced;
+                    importer.textureType = TextureImporterType.Default;
                     dirty = true;
                 }
                 if (dirty)

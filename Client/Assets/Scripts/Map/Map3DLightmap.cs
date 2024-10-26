@@ -27,12 +27,12 @@ public class Map3DLightmap
 
         for (int i = 0; i < data.nearTextureList.Count; i++)
         {
-            lightmapData[i].lightmapNear = data.nearTextureList[i];
+            lightmapData[i].lightmapDir = data.nearTextureList[i];
         }
 
         for (int i = 0; i < data.farTextureList.Count; i++)
         {
-            lightmapData[i].lightmapFar = data.farTextureList[i];
+            lightmapData[i].lightmapLight = data.farTextureList[i];
         }
 
         LightmapSettings.lightmaps = lightmapData;

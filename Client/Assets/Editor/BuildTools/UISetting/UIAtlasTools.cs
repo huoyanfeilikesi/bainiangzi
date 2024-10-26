@@ -241,7 +241,7 @@ public class UIAtlasTools
         importer.anisoLevel = 0;
         importer.isReadable = false;  //increase memory cost if readable is true
         importer.textureFormat = TextureImporterFormat.AutomaticCompressed;
-        importer.textureType = TextureImporterType.Advanced;
+        importer.textureType = TextureImporterType.Default;
         importer.filterMode = FilterMode.Bilinear;
         importer.mipmapEnabled = false;
         importer.alphaIsTransparency = true;

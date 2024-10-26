@@ -53,7 +53,7 @@ public class GridMapTexturePostprocessor : AssetPostprocessor
 
         if (fileName.StartsWith("minimap_"))
         {
-            textureImporter.textureType = TextureImporterType.Advanced;
+            textureImporter.textureType = TextureImporterType.Default;
             textureImporter.spriteImportMode = SpriteImportMode.None;
             textureImporter.mipmapEnabled = false;
             textureImporter.textureFormat = TextureImporterFormat.ARGB16;
@@ -61,7 +61,7 @@ public class GridMapTexturePostprocessor : AssetPostprocessor
         }
         else if (fileName.StartsWith("gridRef_"))
         {
-            textureImporter.textureType = TextureImporterType.Advanced;
+            textureImporter.textureType = TextureImporterType.Default;
             textureImporter.npotScale = TextureImporterNPOTScale.None;
             textureImporter.isReadable = true;
             textureImporter.mipmapEnabled = false;
@@ -75,7 +75,7 @@ public class GridMapTexturePostprocessor : AssetPostprocessor
 
             if (folderName.StartsWith("tilemap_"))
             {
-                textureImporter.textureType = TextureImporterType.Advanced;
+                textureImporter.textureType = TextureImporterType.Default;
                 textureImporter.spriteImportMode = SpriteImportMode.None;
                 textureImporter.wrapMode = TextureWrapMode.Clamp;
                 textureImporter.mipmapEnabled = false;
@@ -95,7 +95,7 @@ public class GridMapTexturePostprocessor : AssetPostprocessor
                 texSettings.aniso = -1;
                 textureImporter.SetTextureSettings(texSettings);
 
-                textureImporter.textureType = TextureImporterType.Advanced;
+                textureImporter.textureType = TextureImporterType.Default;
                 textureImporter.wrapMode = TextureWrapMode.Clamp;
                 textureImporter.npotScale = TextureImporterNPOTScale.None;
                 textureImporter.alphaIsTransparency = true;

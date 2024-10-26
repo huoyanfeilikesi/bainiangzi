@@ -6,7 +6,7 @@ public class UnityEngine_ProfilerWrap
 {
 	public static void Register(LuaState L)
 	{
-		L.BeginClass(typeof(UnityEngine.Profiler), typeof(System.Object));
+		L.BeginClass(typeof(UnityEngine.Profiling.Profiler), typeof(System.Object));
 		L.RegFunction("AddFramesFromFile", AddFramesFromFile);
 		L.RegFunction("BeginSample", BeginSample);
 		L.RegFunction("EndSample", EndSample);
@@ -35,7 +35,7 @@ public class UnityEngine_ProfilerWrap
 
 			if (count == 0)
 			{
-				UnityEngine.Profiler obj = new UnityEngine.Profiler();
+				UnityEngine.Profiling.Profiler obj = new UnityEngine.Profiling.Profiler();
 				ToLua.PushObject(L, obj);
 				return 1;
 			}
@@ -57,7 +57,7 @@ public class UnityEngine_ProfilerWrap
 		{
 			ToLua.CheckArgsCount(L, 1);
 			string arg0 = ToLua.CheckString(L, 1);
-			UnityEngine.Profiler.AddFramesFromFile(arg0);
+			UnityEngine.Profiling.Profiler.AddFramesFromFile(arg0);
 			return 0;
 		}
 		catch(Exception e)
@@ -76,14 +76,14 @@ public class UnityEngine_ProfilerWrap
 			if (count == 1 && TypeChecker.CheckTypes(L, 1, typeof(string)))
 			{
 				string arg0 = ToLua.ToString(L, 1);
-				UnityEngine.Profiler.BeginSample(arg0);
+				UnityEngine.Profiling.Profiler.BeginSample(arg0);
 				return 0;
 			}
 			else if (count == 2 && TypeChecker.CheckTypes(L, 1, typeof(string), typeof(UnityEngine.Object)))
 			{
 				string arg0 = ToLua.ToString(L, 1);
 				UnityEngine.Object arg1 = (UnityEngine.Object)ToLua.ToObject(L, 2);
-				UnityEngine.Profiler.BeginSample(arg0, arg1);
+				UnityEngine.Profiling.Profiler.BeginSample(arg0, arg1);
 				return 0;
 			}
 			else
@@ -103,7 +103,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			UnityEngine.Profiler.EndSample();
+			UnityEngine.Profiling.Profiler.EndSample();
 			return 0;
 		}
 		catch(Exception e)
@@ -119,7 +119,7 @@ public class UnityEngine_ProfilerWrap
 		{
 			ToLua.CheckArgsCount(L, 1);
 			UnityEngine.Object arg0 = (UnityEngine.Object)ToLua.CheckUnityObject(L, 1, typeof(UnityEngine.Object));
-			int o = UnityEngine.Profiler.GetRuntimeMemorySize(arg0);
+			int o = UnityEngine.Profiling.Profiler.GetRuntimeMemorySize(arg0);
 			LuaDLL.lua_pushinteger(L, o);
 			return 1;
 		}
@@ -135,7 +135,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			uint o = UnityEngine.Profiler.GetMonoHeapSize();
+			uint o = UnityEngine.Profiling.Profiler.GetMonoHeapSize();
 			LuaDLL.lua_pushnumber(L, o);
 			return 1;
 		}
@@ -151,7 +151,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			uint o = UnityEngine.Profiler.GetMonoUsedSize();
+			uint o = UnityEngine.Profiling.Profiler.GetMonoUsedSize();
 			LuaDLL.lua_pushnumber(L, o);
 			return 1;
 		}
@@ -167,7 +167,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			uint o = UnityEngine.Profiler.GetTotalAllocatedMemory();
+			uint o = UnityEngine.Profiling.Profiler.GetTotalAllocatedMemory();
 			LuaDLL.lua_pushnumber(L, o);
 			return 1;
 		}
@@ -183,7 +183,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			uint o = UnityEngine.Profiler.GetTotalUnusedReservedMemory();
+			uint o = UnityEngine.Profiling.Profiler.GetTotalUnusedReservedMemory();
 			LuaDLL.lua_pushnumber(L, o);
 			return 1;
 		}
@@ -199,7 +199,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			ToLua.CheckArgsCount(L, 0);
-			uint o = UnityEngine.Profiler.GetTotalReservedMemory();
+			uint o = UnityEngine.Profiling.Profiler.GetTotalReservedMemory();
 			LuaDLL.lua_pushnumber(L, o);
 			return 1;
 		}
@@ -214,7 +214,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushboolean(L, UnityEngine.Profiler.supported);
+			LuaDLL.lua_pushboolean(L, UnityEngine.Profiling.Profiler.supported);
 			return 1;
 		}
 		catch(Exception e)
@@ -228,7 +228,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushstring(L, UnityEngine.Profiler.logFile);
+			LuaDLL.lua_pushstring(L, UnityEngine.Profiling.Profiler.logFile);
 			return 1;
 		}
 		catch(Exception e)
@@ -242,7 +242,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushboolean(L, UnityEngine.Profiler.enableBinaryLog);
+			LuaDLL.lua_pushboolean(L, UnityEngine.Profiling.Profiler.enableBinaryLog);
 			return 1;
 		}
 		catch(Exception e)
@@ -256,7 +256,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushboolean(L, UnityEngine.Profiler.enabled);
+			LuaDLL.lua_pushboolean(L, UnityEngine.Profiling.Profiler.enabled);
 			return 1;
 		}
 		catch(Exception e)
@@ -270,7 +270,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushinteger(L, UnityEngine.Profiler.maxNumberOfSamplesPerFrame);
+			LuaDLL.lua_pushinteger(L, UnityEngine.Profiling.Profiler.maxNumberOfSamplesPerFrame);
 			return 1;
 		}
 		catch(Exception e)
@@ -284,7 +284,7 @@ public class UnityEngine_ProfilerWrap
 	{
 		try
 		{
-			LuaDLL.lua_pushnumber(L, UnityEngine.Profiler.usedHeapSize);
+			LuaDLL.lua_pushnumber(L, UnityEngine.Profiling.Profiler.usedHeapSize);
 			return 1;
 		}
 		catch(Exception e)
@@ -299,7 +299,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			string arg0 = ToLua.CheckString(L, 2);
-			UnityEngine.Profiler.logFile = arg0;
+			UnityEngine.Profiling.Profiler.logFile = arg0;
 			return 0;
 		}
 		catch(Exception e)
@@ -314,7 +314,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			bool arg0 = LuaDLL.luaL_checkboolean(L, 2);
-			UnityEngine.Profiler.enableBinaryLog = arg0;
+			UnityEngine.Profiling.Profiler.enableBinaryLog = arg0;
 			return 0;
 		}
 		catch(Exception e)
@@ -329,7 +329,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			bool arg0 = LuaDLL.luaL_checkboolean(L, 2);
-			UnityEngine.Profiler.enabled = arg0;
+			UnityEngine.Profiling.Profiler.enabled = arg0;
 			return 0;
 		}
 		catch(Exception e)
@@ -344,7 +344,7 @@ public class UnityEngine_ProfilerWrap
 		try
 		{
 			int arg0 = (int)LuaDLL.luaL_checknumber(L, 2);
-			UnityEngine.Profiler.maxNumberOfSamplesPerFrame = arg0;
+			UnityEngine.Profiling.Profiler.maxNumberOfSamplesPerFrame = arg0;
 			return 0;
 		}
 		catch(Exception e)
